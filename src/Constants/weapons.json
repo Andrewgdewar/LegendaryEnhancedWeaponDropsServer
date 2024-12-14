@@ -1,0 +1,24 @@
+{
+    "5bfea6e90db834001b7347f3": {
+        "tpl": "675e0bbd754c6250fb36ebb8",
+        "rarity": "Rare",
+        "originalTpl": "5bfea6e90db834001b7347f3",
+        "parentId": "5447b6254bdc2dc3278b4568",
+        "overrides": {
+            "BackgroundColor": "tracerGreen",
+            "AllowMisfire": false,
+            "AllowJam": false,
+            "AllowOverheat": false,
+            "CanSellOnRagfair": false,
+            "IsUnbuyable": true,
+            "InsuranceDisabled": true,
+            "LootExperience": 100,
+            "BaseMalfunctionChance": 0,
+            "RecoilForceBack": 536,
+            "RecoilForceUp": 159,
+            "Weight": 0.4,
+            "CameraSnap": 2.8
+        },
+        "templateId": "675e0bbd8c8e8788d6e67757"
+    }
+}
