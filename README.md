@@ -1,4 +1,4 @@
-# **DewardianDev's EnchantedWeaponMods**
+# **DewardianDev's LegendaryEnhancedWeaponDrops**
 
 === INSTALL STEPS ===
 
@@ -14,7 +14,7 @@ Example order.json with recommended mods:
 {
 "order": [
 "ServerValueModifier",
-"DewardianDev-EnchantedWeaponMods-1.x.x"
+"DewardianDev-LegendaryEnhancedWeaponDrops-1.x.x"
 "DewardianDev-XXXX-1.x.x",
 ]
 }

@@ -1,4 +1,18 @@
-import { ITemplateItem } from "@spt/models/eft/common/tables/ITemplateItem";
+import {
+  IProps,
+  ITemplateItem,
+} from "@spt/models/eft/common/tables/ITemplateItem";
+import { EpicWeaponData, Rarity } from "./types";
+import {
+  RarityColor,
+  RarityExperience,
+  RarityLoadUnload,
+  RarityMultipliersIncrease,
+  RarityMultipliersLow,
+  RarityMultipliersReduce,
+  RarityMultipliersVelocity,
+  RarityRepairCost,
+} from "./constants";
 
 export const deDupeArr = (arr: any[]) => [...new Set(arr)];
 
@@ -67,4 +81,103 @@ export const getNewMongoId = (items) => {
   return newId;
 };
 
-export const roundToSingleDecimal = (num: number) => Math.round(num * 10) / 10;
+export const roundToDecimal = (num: number, decimal) =>
+  Math.round(num * decimal) / decimal;
+
+export const buildNewWeapon = (
+  originalTpl: string,
+  rarity: Rarity,
+  items: Record<string, ITemplateItem>
+): EpicWeaponData => {
+  return {
+    tpl: getNewMongoId(items),
+    rarity,
+    originalTpl,
+    name: items[originalTpl]._name,
+    parentId: items[originalTpl]._parent,
+    overrides: buildOverrides(rarity, items[originalTpl]._props),
+    templateId: getNewMongoId(items),
+  };
+};
+
+export const buildOverrides = (
+  rarity: Rarity,
+  props: IProps
+): Partial<IProps> => {
+  const {
+    PostRecoilHorizontalRangeHandRotation,
+    PostRecoilVerticalRangeHandRotation,
+    Ergonomics,
+    RecoilForceBack,
+    RecoilForceUp,
+    Weight,
+    CameraSnap,
+    Velocity,
+    weapFireType,
+    SingleFireRate,
+    bFirerate,
+    CenterOfImpact,
+    DurabilityBurnRatio,
+  } = props;
+  const isAuto = weapFireType.includes("fullauto");
+  return {
+    BackgroundColor: RarityColor[rarity],
+    AllowMisfire: false,
+    AllowJam: false,
+    AllowOverheat: false,
+    CanSellOnRagfair: false,
+    CenterOfImpact: roundToDecimal(
+      CenterOfImpact * RarityMultipliersReduce[rarity],
+      100
+    ),
+    IsUnbuyable: true,
+    DurabilityBurnRatio: roundToDecimal(
+      RarityMultipliersIncrease[rarity] * DurabilityBurnRatio,
+      100
+    ),
+    Velocity: roundToDecimal(RarityMultipliersVelocity[rarity] * Velocity, 100),
+    PostRecoilHorizontalRangeHandRotation: (() => {
+      const y = roundToDecimal(
+        PostRecoilHorizontalRangeHandRotation.y *
+          RarityMultipliersReduce[rarity],
+        10
+      );
+      return { x: y * -1, y, z: 0 };
+    })(),
+    PostRecoilVerticalRangeHandRotation: (() => {
+      const x = roundToDecimal(
+        PostRecoilVerticalRangeHandRotation.x * RarityMultipliersReduce[rarity],
+        10
+      );
+      return { x, y: 0, z: 0 };
+    })(),
+    Ergonomics: Math.round(Ergonomics * RarityMultipliersIncrease[rarity]),
+    InsuranceDisabled: true,
+    LootExperience: RarityExperience[rarity],
+    BaseMalfunctionChance: 0,
+    RecoilForceBack: Math.round(
+      RecoilForceBack * RarityMultipliersReduce[rarity]
+    ),
+    RecoilForceUp: Math.round(RecoilForceUp * RarityMultipliersReduce[rarity]),
+    Weight: roundToDecimal(Weight * RarityMultipliersLow[rarity], 10),
+    CameraSnap: roundToDecimal(CameraSnap * RarityMultipliersLow[rarity], 10),
+    RepairCost: RarityRepairCost[rarity],
+    ...(isAuto
+      ? {
+          SingleFireRate: Math.round(
+            SingleFireRate * RarityMultipliersIncrease[rarity]
+          ),
+          bFirerate: Math.round(bFirerate * RarityMultipliersIncrease[rarity]),
+        }
+      : {}),
+  };
+};
+
+// "LoadUnloadModifier":-30 <  percentage
+// "Recoil":-3 <  percentage
+// "Velocity": 12.6  <  percentage
+// "Loudness": -30
+// "HipAccuracyRestorationDelay": 0.2,
+// "HipAccuracyRestorationSpeed": 7,
+// Loudness: -30,
+// ItemSound: "mod",

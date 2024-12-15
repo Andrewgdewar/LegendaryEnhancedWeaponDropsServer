@@ -7,9 +7,11 @@ import { enabled } from "../config/config.json";
 import { ILogger } from "@spt/models/spt/utils/ILogger";
 
 import SetupEquipment from "./Equipment/SetupEquipment";
+import buildWeaponsJson from "./Equipment/buildWeaponsJson";
 
-class EnchantedWeaponMods implements IPostSptLoadMod {
+class LegendaryEnhancedWeaponDrops implements IPostSptLoadMod {
   postSptLoad(container: DependencyContainer): void {
+    // buildWeaponsJson(container);
     if (enabled) {
       try {
         SetupEquipment(container);
@@ -24,4 +26,4 @@ class EnchantedWeaponMods implements IPostSptLoadMod {
   }
 }
 
-module.exports = { mod: new EnchantedWeaponMods() };
+module.exports = { mod: new LegendaryEnhancedWeaponDrops() };
