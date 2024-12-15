@@ -1,7 +1,7 @@
 {
     "5ac66cb05acfc40198510a10": {
         "Legendary": {
-            "tpl": "675e6373fba7ca06a8b724d0",
+            "tpl": "675f3bba49f2103f9db02760",
             "rarity": "Legendary",
             "originalTpl": "5ac66cb05acfc40198510a10",
             "name": "weapon_izhmash_ak101_556x45",
@@ -38,10 +38,10 @@
                 "SingleFireRate": 765,
                 "bFirerate": 1105
             },
-            "templateId": "675e637382ca7242544823d9"
+            "templateId": "675f3bba464fcdb824af05dc"
         },
         "Epic": {
-            "tpl": "675e63732f2bb9a8cd5c282b",
+            "tpl": "675f3bba181b9f0f260de933",
             "rarity": "Epic",
             "originalTpl": "5ac66cb05acfc40198510a10",
             "name": "weapon_izhmash_ak101_556x45",
@@ -78,10 +78,10 @@
                 "SingleFireRate": 675,
                 "bFirerate": 975
             },
-            "templateId": "675e63731e7a3f34ffa979c9"
+            "templateId": "675f3bba0e72b30bd29088f7"
         },
         "Rare": {
-            "tpl": "675e6373f8686da926a8f0a0",
+            "tpl": "675f3bba3cc61bc3ea702a85",
             "rarity": "Rare",
             "originalTpl": "5ac66cb05acfc40198510a10",
             "name": "weapon_izhmash_ak101_556x45",
@@ -118,12 +118,12 @@
                 "SingleFireRate": 563,
                 "bFirerate": 813
             },
-            "templateId": "675e63736de59a89b387494e"
+            "templateId": "675f3bbae9dd907597c12429"
         }
     },
     "5cadfbf7ae92152ac412eeef": {
         "Legendary": {
-            "tpl": "675e637340377a593e22209c",
+            "tpl": "675f3bbaf8fc0309654119d8",
             "rarity": "Legendary",
             "originalTpl": "5cadfbf7ae92152ac412eeef",
             "name": "weapon_ckib_ash_12_127x55",
@@ -160,10 +160,10 @@
                 "SingleFireRate": 765,
                 "bFirerate": 1105
             },
-            "templateId": "675e6373cab6b8705c697562"
+            "templateId": "675f3bba6bb850158f09174f"
         },
         "Epic": {
-            "tpl": "675e6373252679474e60750d",
+            "tpl": "675f3bba4af4502823bd91d5",
             "rarity": "Epic",
             "originalTpl": "5cadfbf7ae92152ac412eeef",
             "name": "weapon_ckib_ash_12_127x55",
@@ -200,10 +200,10 @@
                 "SingleFireRate": 675,
                 "bFirerate": 975
             },
-            "templateId": "675e637318798897e70f552e"
+            "templateId": "675f3bbaea5541b7423d612f"
         },
         "Rare": {
-            "tpl": "675e6373ac0a312dbc819ebe",
+            "tpl": "675f3bba6f5099f17d9fb7f4",
             "rarity": "Rare",
             "originalTpl": "5cadfbf7ae92152ac412eeef",
             "name": "weapon_ckib_ash_12_127x55",
@@ -240,12 +240,12 @@
                 "SingleFireRate": 563,
                 "bFirerate": 813
             },
-            "templateId": "675e63737e16d97e4f10b0fd"
+            "templateId": "675f3bbac37ebac0fe0f31d0"
         }
     },
     "5beed0f50db834001c062b12": {
         "Legendary": {
-            "tpl": "675e6373116a781e33f74c1f",
+            "tpl": "675f3bba53e09d0a10f1c081",
             "rarity": "Legendary",
             "originalTpl": "5beed0f50db834001c062b12",
             "name": "weapon_izhmash_rpk16_545x39",
@@ -282,10 +282,10 @@
                 "SingleFireRate": 765,
                 "bFirerate": 1105
             },
-            "templateId": "675e6373f58d915783e80496"
+            "templateId": "675f3bba67191f0f3222b229"
         },
         "Epic": {
-            "tpl": "675e6373710744dde205f995",
+            "tpl": "675f3bba341604502a32440b",
             "rarity": "Epic",
             "originalTpl": "5beed0f50db834001c062b12",
             "name": "weapon_izhmash_rpk16_545x39",
@@ -322,10 +322,10 @@
                 "SingleFireRate": 675,
                 "bFirerate": 975
             },
-            "templateId": "675e637312919623d6380edd"
+            "templateId": "675f3bbaf634d94b130e9cc3"
         },
         "Rare": {
-            "tpl": "675e6373dd0dfc51d6a5406f",
+            "tpl": "675f3bba8498be4431d433ba",
             "rarity": "Rare",
             "originalTpl": "5beed0f50db834001c062b12",
             "name": "weapon_izhmash_rpk16_545x39",
@@ -362,12 +362,12 @@
                 "SingleFireRate": 563,
                 "bFirerate": 813
             },
-            "templateId": "675e637367a387c4bd365fd5"
+            "templateId": "675f3bbab871069d6b10d5ac"
         }
     },
     "5c46fbd72e2216398b5a8c9c": {
         "Legendary": {
-            "tpl": "675e6373faf0ddf3501cb307",
+            "tpl": "675f3bbab2a8052529e2b2e3",
             "rarity": "Legendary",
             "originalTpl": "5c46fbd72e2216398b5a8c9c",
             "name": "weapon_izhmash_svd_s_762x54",
@@ -381,7 +381,7 @@
                 "CenterOfImpact": 0,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.95,
-                "Velocity": 0,
+                "Velocity": 9,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.2,
                     "y": 0.2,
@@ -402,10 +402,10 @@
                 "CameraSnap": 0.4,
                 "RepairCost": 1600
             },
-            "templateId": "675e6373e8905c30a8efac7d"
+            "templateId": "675f3bbaf5274660743d861d"
         },
         "Epic": {
-            "tpl": "675e6373e8dd6f70c8385987",
+            "tpl": "675f3bbaddfaf0d1c218589a",
             "rarity": "Epic",
             "originalTpl": "5c46fbd72e2216398b5a8c9c",
             "name": "weapon_izhmash_svd_s_762x54",
@@ -419,7 +419,7 @@
                 "CenterOfImpact": 0,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.73,
-                "Velocity": 0,
+                "Velocity": 7,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.5,
                     "y": 0.5,
@@ -440,10 +440,10 @@
                 "CameraSnap": 1.1,
                 "RepairCost": 1200
             },
-            "templateId": "675e63739c0cccc0c52d2986"
+            "templateId": "675f3bbafe55faa387a75c99"
         },
         "Rare": {
-            "tpl": "675e6373862ef09a91aa4e8f",
+            "tpl": "675f3bba9b0b625780fe7b11",
             "rarity": "Rare",
             "originalTpl": "5c46fbd72e2216398b5a8c9c",
             "name": "weapon_izhmash_svd_s_762x54",
@@ -457,7 +457,7 @@
                 "CenterOfImpact": 0,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.44,
-                "Velocity": 0,
+                "Velocity": 4,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.7,
                     "y": 0.7,
@@ -478,12 +478,12 @@
                 "CameraSnap": 1.8,
                 "RepairCost": 400
             },
-            "templateId": "675e63730de1185c39e3c3e1"
+            "templateId": "675f3bbada020d4cba2d79e0"
         }
     },
     "57838ad32459774a17445cd2": {
         "Legendary": {
-            "tpl": "675e63738b28df8794b204b1",
+            "tpl": "675f3bba9f48df72d2948a6f",
             "rarity": "Legendary",
             "originalTpl": "57838ad32459774a17445cd2",
             "name": "weapon_tochmash_vss_9x39",
@@ -497,7 +497,7 @@
                 "CenterOfImpact": 0.02,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.95,
-                "Velocity": 0,
+                "Velocity": 9,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.2,
                     "y": 0.2,
@@ -520,10 +520,10 @@
                 "SingleFireRate": 765,
                 "bFirerate": 1530
             },
-            "templateId": "675e6373d13c7f42a59d3639"
+            "templateId": "675f3bba2bc63ee60f0d0fab"
         },
         "Epic": {
-            "tpl": "675e6373668478d160d0395a",
+            "tpl": "675f3bba8e1e5f4e2ab7d555",
             "rarity": "Epic",
             "originalTpl": "57838ad32459774a17445cd2",
             "name": "weapon_tochmash_vss_9x39",
@@ -537,7 +537,7 @@
                 "CenterOfImpact": 0.05,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.73,
-                "Velocity": 0,
+                "Velocity": 7,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.5,
                     "y": 0.5,
@@ -560,10 +560,10 @@
                 "SingleFireRate": 675,
                 "bFirerate": 1350
             },
-            "templateId": "675e63735ea913ef59b2eb33"
+            "templateId": "675f3bba1a9f1f53fccc8c3b"
         },
         "Rare": {
-            "tpl": "675e63735c191bfaffe01c7c",
+            "tpl": "675f3bba341a74c4d8b5a149",
             "rarity": "Rare",
             "originalTpl": "57838ad32459774a17445cd2",
             "name": "weapon_tochmash_vss_9x39",
@@ -577,7 +577,7 @@
                 "CenterOfImpact": 0.07,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.44,
-                "Velocity": 0,
+                "Velocity": 4,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.7,
                     "y": 0.7,
@@ -600,12 +600,12 @@
                 "SingleFireRate": 563,
                 "bFirerate": 1125
             },
-            "templateId": "675e63730c6ec4b5a2984215"
+            "templateId": "675f3bba4cc8d36d2db6b0f7"
         }
     },
     "583990e32459771419544dd2": {
         "Legendary": {
-            "tpl": "675e6373361c7972c0932f66",
+            "tpl": "675f3bba0d13720eaf2dae22",
             "rarity": "Legendary",
             "originalTpl": "583990e32459771419544dd2",
             "name": "weapon_izhmash_aks74un_545x39",
@@ -619,7 +619,7 @@
                 "CenterOfImpact": 0.02,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.95,
-                "Velocity": -161.1,
+                "Velocity": 9,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.3,
                     "y": 0.3,
@@ -642,10 +642,10 @@
                 "SingleFireRate": 765,
                 "bFirerate": 1105
             },
-            "templateId": "675e6373923f9622cce8bfb0"
+            "templateId": "675f3bba25cccd0952c79b61"
         },
         "Epic": {
-            "tpl": "675e63735d8f33017496d634",
+            "tpl": "675f3bba788d792f78fc9e47",
             "rarity": "Epic",
             "originalTpl": "583990e32459771419544dd2",
             "name": "weapon_izhmash_aks74un_545x39",
@@ -659,7 +659,7 @@
                 "CenterOfImpact": 0.05,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.73,
-                "Velocity": -125.3,
+                "Velocity": 7,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.8,
                     "y": 0.8,
@@ -682,10 +682,10 @@
                 "SingleFireRate": 675,
                 "bFirerate": 975
             },
-            "templateId": "675e6373c5fa5a5488c00628"
+            "templateId": "675f3bbaa9f70c8b82e73666"
         },
         "Rare": {
-            "tpl": "675e637317677d61cd19485b",
+            "tpl": "675f3bbaaef5561fe31ffd62",
             "rarity": "Rare",
             "originalTpl": "583990e32459771419544dd2",
             "name": "weapon_izhmash_aks74un_545x39",
@@ -699,7 +699,7 @@
                 "CenterOfImpact": 0.07,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.44,
-                "Velocity": -71.6,
+                "Velocity": 4,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -1,
                     "y": 1,
@@ -722,12 +722,12 @@
                 "SingleFireRate": 563,
                 "bFirerate": 813
             },
-            "templateId": "675e6373b72351d04eb37274"
+            "templateId": "675f3bbacc28f78891ffd622"
         }
     },
     "6165ac306ef05c2ce828ef74": {
         "Legendary": {
-            "tpl": "675e63734cbe1946b2aff934",
+            "tpl": "675f3bbac47fd6894c9be261",
             "rarity": "Legendary",
             "originalTpl": "6165ac306ef05c2ce828ef74",
             "name": "weapon_fn_mk17_762x51_fde",
@@ -741,7 +741,7 @@
                 "CenterOfImpact": 0,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.95,
-                "Velocity": 0,
+                "Velocity": 9,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.3,
                     "y": 0.3,
@@ -764,10 +764,10 @@
                 "SingleFireRate": 765,
                 "bFirerate": 1020
             },
-            "templateId": "675e6373e4f30b74dea363e9"
+            "templateId": "675f3bba77e806c523b21f49"
         },
         "Epic": {
-            "tpl": "675e63732e5d09cd5745fa68",
+            "tpl": "675f3bba6027ab6e56c61d14",
             "rarity": "Epic",
             "originalTpl": "6165ac306ef05c2ce828ef74",
             "name": "weapon_fn_mk17_762x51_fde",
@@ -781,7 +781,7 @@
                 "CenterOfImpact": 0.01,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.73,
-                "Velocity": 0,
+                "Velocity": 7,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.8,
                     "y": 0.8,
@@ -804,10 +804,10 @@
                 "SingleFireRate": 675,
                 "bFirerate": 900
             },
-            "templateId": "675e6373184adee4939f8318"
+            "templateId": "675f3bbaef3ee3b4a64b00b9"
         },
         "Rare": {
-            "tpl": "675e63738e8acba79ab18ba1",
+            "tpl": "675f3bba2683169ca6116f70",
             "rarity": "Rare",
             "originalTpl": "6165ac306ef05c2ce828ef74",
             "name": "weapon_fn_mk17_762x51_fde",
@@ -821,7 +821,7 @@
                 "CenterOfImpact": 0.01,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.44,
-                "Velocity": 0,
+                "Velocity": 4,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -1,
                     "y": 1,
@@ -844,12 +844,12 @@
                 "SingleFireRate": 563,
                 "bFirerate": 750
             },
-            "templateId": "675e63732b2d266f40ff5967"
+            "templateId": "675f3bba152f9d0a8b1e288a"
         }
     },
     "5dcbd56fdbd3d91b3e5468d5": {
         "Legendary": {
-            "tpl": "675e6373c79c2cd2c347ad5a",
+            "tpl": "675f3bba7bdd33f1696d0b5d",
             "rarity": "Legendary",
             "originalTpl": "5dcbd56fdbd3d91b3e5468d5",
             "name": "weapon_dt_mdr_762x51",
@@ -863,7 +863,7 @@
                 "CenterOfImpact": 0,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.95,
-                "Velocity": 0,
+                "Velocity": 9,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.3,
                     "y": 0.3,
@@ -886,10 +886,10 @@
                 "SingleFireRate": 765,
                 "bFirerate": 1105
             },
-            "templateId": "675e63730cb6d23188e0eccc"
+            "templateId": "675f3bbadbd4131207ffadb8"
         },
         "Epic": {
-            "tpl": "675e637392fb21a81888f0e1",
+            "tpl": "675f3bba192b5115ebf52001",
             "rarity": "Epic",
             "originalTpl": "5dcbd56fdbd3d91b3e5468d5",
             "name": "weapon_dt_mdr_762x51",
@@ -903,7 +903,7 @@
                 "CenterOfImpact": 0.01,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.73,
-                "Velocity": 0,
+                "Velocity": 7,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.8,
                     "y": 0.8,
@@ -926,10 +926,10 @@
                 "SingleFireRate": 675,
                 "bFirerate": 975
             },
-            "templateId": "675e6373308f6a03a579a18d"
+            "templateId": "675f3bbafc9656ba0e7ef38e"
         },
         "Rare": {
-            "tpl": "675e63730557222df2d16ca4",
+            "tpl": "675f3bbad15d3caf961c9906",
             "rarity": "Rare",
             "originalTpl": "5dcbd56fdbd3d91b3e5468d5",
             "name": "weapon_dt_mdr_762x51",
@@ -943,7 +943,7 @@
                 "CenterOfImpact": 0.01,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.44,
-                "Velocity": 0,
+                "Velocity": 4,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -1,
                     "y": 1,
@@ -966,12 +966,12 @@
                 "SingleFireRate": 563,
                 "bFirerate": 813
             },
-            "templateId": "675e63736fa86b13083f73a3"
+            "templateId": "675f3bba19a827a294949867"
         }
     },
     "64ca3d3954fc657e230529cc": {
         "Legendary": {
-            "tpl": "675e6373ffd5acc05efe5fe8",
+            "tpl": "675f3bba8ffa86bf69805834",
             "rarity": "Legendary",
             "originalTpl": "64ca3d3954fc657e230529cc",
             "name": "weapon_zid_pkp_762x54r",
@@ -1008,10 +1008,10 @@
                 "SingleFireRate": 765,
                 "bFirerate": 1105
             },
-            "templateId": "675e6373327101302b302281"
+            "templateId": "675f3bba2fccc724b6b70975"
         },
         "Epic": {
-            "tpl": "675e637317f56fe6b52a712a",
+            "tpl": "675f3bbac698b595988cd607",
             "rarity": "Epic",
             "originalTpl": "64ca3d3954fc657e230529cc",
             "name": "weapon_zid_pkp_762x54r",
@@ -1048,10 +1048,10 @@
                 "SingleFireRate": 675,
                 "bFirerate": 975
             },
-            "templateId": "675e637374b7f94b86d5f3de"
+            "templateId": "675f3bbac566a34cc56725ab"
         },
         "Rare": {
-            "tpl": "675e6373956e09585b6d6767",
+            "tpl": "675f3bba745a7946417556a4",
             "rarity": "Rare",
             "originalTpl": "64ca3d3954fc657e230529cc",
             "name": "weapon_zid_pkp_762x54r",
@@ -1088,12 +1088,12 @@
                 "SingleFireRate": 563,
                 "bFirerate": 813
             },
-            "templateId": "675e6373a07223438403937c"
+            "templateId": "675f3bbaf4e665f910e909c4"
         }
     },
     "65fb023261d5829b2d090755": {
         "Legendary": {
-            "tpl": "675e6373684157dffc9b3030",
+            "tpl": "675f3bbaf0100d20d760fdae",
             "rarity": "Legendary",
             "originalTpl": "65fb023261d5829b2d090755",
             "name": "weapon_usord_m60e4_762x51",
@@ -1130,10 +1130,10 @@
                 "SingleFireRate": 935,
                 "bFirerate": 935
             },
-            "templateId": "675e63739f6e9f6e5eff20a0"
+            "templateId": "675f3bbab7ac635a5c64482a"
         },
         "Epic": {
-            "tpl": "675e6373fec63157233b3b11",
+            "tpl": "675f3bba130af4922ca242ab",
             "rarity": "Epic",
             "originalTpl": "65fb023261d5829b2d090755",
             "name": "weapon_usord_m60e4_762x51",
@@ -1170,10 +1170,10 @@
                 "SingleFireRate": 825,
                 "bFirerate": 825
             },
-            "templateId": "675e6373f74701287a696979"
+            "templateId": "675f3bba726532f50d1f8939"
         },
         "Rare": {
-            "tpl": "675e6373a1df14c50d94857d",
+            "tpl": "675f3bbaf4880197f625e1aa",
             "rarity": "Rare",
             "originalTpl": "65fb023261d5829b2d090755",
             "name": "weapon_usord_m60e4_762x51",
@@ -1210,12 +1210,12 @@
                 "SingleFireRate": 688,
                 "bFirerate": 688
             },
-            "templateId": "675e6373fdf9314d0bcc3fb0"
+            "templateId": "675f3bba426bfbe6939e4820"
         }
     },
     "587e02ff24597743df3deaeb": {
         "Legendary": {
-            "tpl": "675e6373c9bed079058f3604",
+            "tpl": "675f3bbaf4bbf213021edf2c",
             "rarity": "Legendary",
             "originalTpl": "587e02ff24597743df3deaeb",
             "name": "weapon_molot_op_sks_762x39",
@@ -1229,7 +1229,7 @@
                 "CenterOfImpact": 0.01,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.95,
-                "Velocity": 0,
+                "Velocity": 9,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.3,
                     "y": 0.3,
@@ -1250,10 +1250,10 @@
                 "CameraSnap": 0.4,
                 "RepairCost": 1600
             },
-            "templateId": "675e63737128059f030ee068"
+            "templateId": "675f3bba4ee745abcfb40491"
         },
         "Epic": {
-            "tpl": "675e6373f663becde61263c2",
+            "tpl": "675f3bba0a2015a7c19b9a64",
             "rarity": "Epic",
             "originalTpl": "587e02ff24597743df3deaeb",
             "name": "weapon_molot_op_sks_762x39",
@@ -1267,7 +1267,7 @@
                 "CenterOfImpact": 0.04,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.73,
-                "Velocity": 0,
+                "Velocity": 7,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.8,
                     "y": 0.8,
@@ -1288,10 +1288,10 @@
                 "CameraSnap": 1.1,
                 "RepairCost": 1200
             },
-            "templateId": "675e63732e42beab8f745950"
+            "templateId": "675f3bba6a46c45b7d554078"
         },
         "Rare": {
-            "tpl": "675e6373c6e1059c31eb0f88",
+            "tpl": "675f3bba5021c64d3d066cb4",
             "rarity": "Rare",
             "originalTpl": "587e02ff24597743df3deaeb",
             "name": "weapon_molot_op_sks_762x39",
@@ -1305,7 +1305,7 @@
                 "CenterOfImpact": 0.05,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.44,
-                "Velocity": 0,
+                "Velocity": 4,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -1,
                     "y": 1,
@@ -1326,12 +1326,12 @@
                 "CameraSnap": 1.8,
                 "RepairCost": 400
             },
-            "templateId": "675e63737eceffe7af929333"
+            "templateId": "675f3bba2d8d05c6a5b2a0b5"
         }
     },
     "5a0ec13bfcdbcb00165aa685": {
         "Legendary": {
-            "tpl": "675e63739be7156a069881a1",
+            "tpl": "675f3bba5689a719c0980b1c",
             "rarity": "Legendary",
             "originalTpl": "5a0ec13bfcdbcb00165aa685",
             "name": "weapon_izhmash_akmn_762x39",
@@ -1368,10 +1368,10 @@
                 "SingleFireRate": 765,
                 "bFirerate": 1020
             },
-            "templateId": "675e63732633eac76d450f85"
+            "templateId": "675f3bba6a72fbce22004822"
         },
         "Epic": {
-            "tpl": "675e63735935655205b93eb7",
+            "tpl": "675f3bba3902911dd8c7e94f",
             "rarity": "Epic",
             "originalTpl": "5a0ec13bfcdbcb00165aa685",
             "name": "weapon_izhmash_akmn_762x39",
@@ -1408,10 +1408,10 @@
                 "SingleFireRate": 675,
                 "bFirerate": 900
             },
-            "templateId": "675e63733fc7788c07d3081e"
+            "templateId": "675f3bba57a9bd544064d398"
         },
         "Rare": {
-            "tpl": "675e63736b8e463b5d06a1b9",
+            "tpl": "675f3bbade554648f0ba6de4",
             "rarity": "Rare",
             "originalTpl": "5a0ec13bfcdbcb00165aa685",
             "name": "weapon_izhmash_akmn_762x39",
@@ -1448,12 +1448,12 @@
                 "SingleFireRate": 563,
                 "bFirerate": 750
             },
-            "templateId": "675e6373d8087de8bba5b0af"
+            "templateId": "675f3bba1d1d39564c3176c4"
         }
     },
     "5e848cc2988a8701445df1e8": {
         "Legendary": {
-            "tpl": "675e637307af90e9a229db9a",
+            "tpl": "675f3bbaf2f2e5048bfa7138",
             "rarity": "Legendary",
             "originalTpl": "5e848cc2988a8701445df1e8",
             "name": "weapon_toz_ks23m_23x75",
@@ -1467,7 +1467,7 @@
                 "CenterOfImpact": 0.09,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.95,
-                "Velocity": 0,
+                "Velocity": 9,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.5,
                     "y": 0.5,
@@ -1488,10 +1488,10 @@
                 "CameraSnap": 0.2,
                 "RepairCost": 1600
             },
-            "templateId": "675e6373dc847103709e61f2"
+            "templateId": "675f3bba64dd18f43379f9c9"
         },
         "Epic": {
-            "tpl": "675e6373557f6657e35219e9",
+            "tpl": "675f3bbaf3b4b88995c9506b",
             "rarity": "Epic",
             "originalTpl": "5e848cc2988a8701445df1e8",
             "name": "weapon_toz_ks23m_23x75",
@@ -1505,7 +1505,7 @@
                 "CenterOfImpact": 0.23,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.73,
-                "Velocity": 0,
+                "Velocity": 7,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -1.3,
                     "y": 1.3,
@@ -1526,10 +1526,10 @@
                 "CameraSnap": 0.6,
                 "RepairCost": 1200
             },
-            "templateId": "675e6373ffe3a3f2f4ac5c7c"
+            "templateId": "675f3bba8cfa13e0235f72e1"
         },
         "Rare": {
-            "tpl": "675e637370b38612a0f31f8b",
+            "tpl": "675f3bba837c9c2bc9414786",
             "rarity": "Rare",
             "originalTpl": "5e848cc2988a8701445df1e8",
             "name": "weapon_toz_ks23m_23x75",
@@ -1543,7 +1543,7 @@
                 "CenterOfImpact": 0.32,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.44,
-                "Velocity": 0,
+                "Velocity": 4,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -1.8,
                     "y": 1.8,
@@ -1564,134 +1564,12 @@
                 "CameraSnap": 1,
                 "RepairCost": 400
             },
-            "templateId": "675e63736044b1ee1c117982"
-        }
-    },
-    "5bf3e0490db83400196199af": {
-        "Legendary": {
-            "tpl": "675e6373cac218e5e60f3292",
-            "rarity": "Legendary",
-            "originalTpl": "5bf3e0490db83400196199af",
-            "name": "weapon_izhmash_aks74_545x39",
-            "parentId": "5447b5f14bdc2d61278b4567",
-            "overrides": {
-                "BackgroundColor": "tracerRed",
-                "AllowMisfire": false,
-                "AllowJam": false,
-                "AllowOverheat": false,
-                "CanSellOnRagfair": false,
-                "CenterOfImpact": 0.01,
-                "IsUnbuyable": true,
-                "DurabilityBurnRatio": 1.95,
-                "Velocity": 16.2,
-                "PostRecoilHorizontalRangeHandRotation": {
-                    "x": -0.3,
-                    "y": 0.3,
-                    "z": 0
-                },
-                "PostRecoilVerticalRangeHandRotation": {
-                    "x": -0.3,
-                    "y": 0,
-                    "z": 0
-                },
-                "Ergonomics": 53,
-                "InsuranceDisabled": true,
-                "LootExperience": 450,
-                "BaseMalfunctionChance": 0,
-                "RecoilForceBack": 64,
-                "RecoilForceUp": 24,
-                "Weight": 0.2,
-                "CameraSnap": 0.4,
-                "RepairCost": 1600,
-                "SingleFireRate": 765,
-                "bFirerate": 1105
-            },
-            "templateId": "675e6373eb1f019f7b901e6e"
-        },
-        "Epic": {
-            "tpl": "675e63738b08cc65351329e8",
-            "rarity": "Epic",
-            "originalTpl": "5bf3e0490db83400196199af",
-            "name": "weapon_izhmash_aks74_545x39",
-            "parentId": "5447b5f14bdc2d61278b4567",
-            "overrides": {
-                "BackgroundColor": "tracerYellow",
-                "AllowMisfire": false,
-                "AllowJam": false,
-                "AllowOverheat": false,
-                "CanSellOnRagfair": false,
-                "CenterOfImpact": 0.03,
-                "IsUnbuyable": true,
-                "DurabilityBurnRatio": 1.73,
-                "Velocity": 12.6,
-                "PostRecoilHorizontalRangeHandRotation": {
-                    "x": -0.8,
-                    "y": 0.8,
-                    "z": 0
-                },
-                "PostRecoilVerticalRangeHandRotation": {
-                    "x": -0.7,
-                    "y": 0,
-                    "z": 0
-                },
-                "Ergonomics": 47,
-                "InsuranceDisabled": true,
-                "LootExperience": 200,
-                "BaseMalfunctionChance": 0,
-                "RecoilForceBack": 161,
-                "RecoilForceUp": 60,
-                "Weight": 0.6,
-                "CameraSnap": 1.1,
-                "RepairCost": 1200,
-                "SingleFireRate": 675,
-                "bFirerate": 975
-            },
-            "templateId": "675e637386cee1cdfcd9e44c"
-        },
-        "Rare": {
-            "tpl": "675e637316f0eb79ffcea4f6",
-            "rarity": "Rare",
-            "originalTpl": "5bf3e0490db83400196199af",
-            "name": "weapon_izhmash_aks74_545x39",
-            "parentId": "5447b5f14bdc2d61278b4567",
-            "overrides": {
-                "BackgroundColor": "tracerGreen",
-                "AllowMisfire": false,
-                "AllowJam": false,
-                "AllowOverheat": false,
-                "CanSellOnRagfair": false,
-                "CenterOfImpact": 0.04,
-                "IsUnbuyable": true,
-                "DurabilityBurnRatio": 1.44,
-                "Velocity": 7.2,
-                "PostRecoilHorizontalRangeHandRotation": {
-                    "x": -1,
-                    "y": 1,
-                    "z": 0
-                },
-                "PostRecoilVerticalRangeHandRotation": {
-                    "x": -1,
-                    "y": 0,
-                    "z": 0
-                },
-                "Ergonomics": 39,
-                "InsuranceDisabled": true,
-                "LootExperience": 100,
-                "BaseMalfunctionChance": 0,
-                "RecoilForceBack": 225,
-                "RecoilForceUp": 84,
-                "Weight": 1,
-                "CameraSnap": 1.8,
-                "RepairCost": 400,
-                "SingleFireRate": 563,
-                "bFirerate": 813
-            },
-            "templateId": "675e63736a037d7f6fe80204"
+            "templateId": "675f3bba13ec1c0d7b31d816"
         }
     },
     "59ff346386f77477562ff5e2": {
         "Legendary": {
-            "tpl": "675e6373325d0fb15eb40060",
+            "tpl": "675f3bbac87755508d2286e8",
             "rarity": "Legendary",
             "originalTpl": "59ff346386f77477562ff5e2",
             "name": "weapon_izhmash_akms_762x39",
@@ -1728,10 +1606,10 @@
                 "SingleFireRate": 765,
                 "bFirerate": 1020
             },
-            "templateId": "675e6373f3fd3d46f960203a"
+            "templateId": "675f3bba8b4a01c7fe315ed9"
         },
         "Epic": {
-            "tpl": "675e637364e35ed05f6abaee",
+            "tpl": "675f3bba9b148b46023f3752",
             "rarity": "Epic",
             "originalTpl": "59ff346386f77477562ff5e2",
             "name": "weapon_izhmash_akms_762x39",
@@ -1768,10 +1646,10 @@
                 "SingleFireRate": 675,
                 "bFirerate": 900
             },
-            "templateId": "675e63732e7fa090df1f9776"
+            "templateId": "675f3bba6705339d6c17b95c"
         },
         "Rare": {
-            "tpl": "675e637336c20a29e459baa4",
+            "tpl": "675f3bbab8b420b08d80a087",
             "rarity": "Rare",
             "originalTpl": "59ff346386f77477562ff5e2",
             "name": "weapon_izhmash_akms_762x39",
@@ -1808,12 +1686,12 @@
                 "SingleFireRate": 563,
                 "bFirerate": 750
             },
-            "templateId": "675e63730875e2e0bf66e770"
+            "templateId": "675f3bba062a12855cd5528c"
         }
     },
     "5fbcc1d9016cce60e8341ab3": {
         "Legendary": {
-            "tpl": "675e6373737e5cad704b1680",
+            "tpl": "675f3bba52da9a360f3957c9",
             "rarity": "Legendary",
             "originalTpl": "5fbcc1d9016cce60e8341ab3",
             "name": "weapon_sig_mcx_gen1_762x35",
@@ -1827,7 +1705,7 @@
                 "CenterOfImpact": 0,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.95,
-                "Velocity": 0,
+                "Velocity": 9,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.3,
                     "y": 0.3,
@@ -1850,10 +1728,10 @@
                 "SingleFireRate": 765,
                 "bFirerate": 1360
             },
-            "templateId": "675e63732402624a34f8536c"
+            "templateId": "675f3bba2de59d9949c226b9"
         },
         "Epic": {
-            "tpl": "675e6373ee8bb6defd974807",
+            "tpl": "675f3bbaefa814f9dd2bb020",
             "rarity": "Epic",
             "originalTpl": "5fbcc1d9016cce60e8341ab3",
             "name": "weapon_sig_mcx_gen1_762x35",
@@ -1867,7 +1745,7 @@
                 "CenterOfImpact": 0.01,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.73,
-                "Velocity": 0,
+                "Velocity": 7,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.8,
                     "y": 0.8,
@@ -1890,10 +1768,10 @@
                 "SingleFireRate": 675,
                 "bFirerate": 1200
             },
-            "templateId": "675e6373fea46f6a7d93680b"
+            "templateId": "675f3bba7f84b4e358d45303"
         },
         "Rare": {
-            "tpl": "675e63733083387412f2132e",
+            "tpl": "675f3bbac162c557893d82a6",
             "rarity": "Rare",
             "originalTpl": "5fbcc1d9016cce60e8341ab3",
             "name": "weapon_sig_mcx_gen1_762x35",
@@ -1907,7 +1785,7 @@
                 "CenterOfImpact": 0.01,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.44,
-                "Velocity": 0,
+                "Velocity": 4,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -1,
                     "y": 1,
@@ -1930,610 +1808,12 @@
                 "SingleFireRate": 563,
                 "bFirerate": 1000
             },
-            "templateId": "675e637342dc094c5bcc7680"
-        }
-    },
-    "5ac4cd105acfc40016339859": {
-        "Legendary": {
-            "tpl": "675e6373014016d3e111edbc",
-            "rarity": "Legendary",
-            "originalTpl": "5ac4cd105acfc40016339859",
-            "name": "weapon_izhmash_ak74m_545x39",
-            "parentId": "5447b5f14bdc2d61278b4567",
-            "overrides": {
-                "BackgroundColor": "tracerRed",
-                "AllowMisfire": false,
-                "AllowJam": false,
-                "AllowOverheat": false,
-                "CanSellOnRagfair": false,
-                "CenterOfImpact": 0.01,
-                "IsUnbuyable": true,
-                "DurabilityBurnRatio": 1.95,
-                "Velocity": 16.2,
-                "PostRecoilHorizontalRangeHandRotation": {
-                    "x": -0.3,
-                    "y": 0.3,
-                    "z": 0
-                },
-                "PostRecoilVerticalRangeHandRotation": {
-                    "x": -0.3,
-                    "y": 0,
-                    "z": 0
-                },
-                "Ergonomics": 56,
-                "InsuranceDisabled": true,
-                "LootExperience": 450,
-                "BaseMalfunctionChance": 0,
-                "RecoilForceBack": 64,
-                "RecoilForceUp": 24,
-                "Weight": 0.2,
-                "CameraSnap": 0.4,
-                "RepairCost": 1600,
-                "SingleFireRate": 765,
-                "bFirerate": 1105
-            },
-            "templateId": "675e6373dd87776f3617ea6a"
-        },
-        "Epic": {
-            "tpl": "675e63731332cba994e0f66b",
-            "rarity": "Epic",
-            "originalTpl": "5ac4cd105acfc40016339859",
-            "name": "weapon_izhmash_ak74m_545x39",
-            "parentId": "5447b5f14bdc2d61278b4567",
-            "overrides": {
-                "BackgroundColor": "tracerYellow",
-                "AllowMisfire": false,
-                "AllowJam": false,
-                "AllowOverheat": false,
-                "CanSellOnRagfair": false,
-                "CenterOfImpact": 0.03,
-                "IsUnbuyable": true,
-                "DurabilityBurnRatio": 1.73,
-                "Velocity": 12.6,
-                "PostRecoilHorizontalRangeHandRotation": {
-                    "x": -0.8,
-                    "y": 0.8,
-                    "z": 0
-                },
-                "PostRecoilVerticalRangeHandRotation": {
-                    "x": -0.7,
-                    "y": 0,
-                    "z": 0
-                },
-                "Ergonomics": 50,
-                "InsuranceDisabled": true,
-                "LootExperience": 200,
-                "BaseMalfunctionChance": 0,
-                "RecoilForceBack": 159,
-                "RecoilForceUp": 59,
-                "Weight": 0.7,
-                "CameraSnap": 1.1,
-                "RepairCost": 1200,
-                "SingleFireRate": 675,
-                "bFirerate": 975
-            },
-            "templateId": "675e6373ba2b8ca6e097078c"
-        },
-        "Rare": {
-            "tpl": "675e63734ee53d7f45026762",
-            "rarity": "Rare",
-            "originalTpl": "5ac4cd105acfc40016339859",
-            "name": "weapon_izhmash_ak74m_545x39",
-            "parentId": "5447b5f14bdc2d61278b4567",
-            "overrides": {
-                "BackgroundColor": "tracerGreen",
-                "AllowMisfire": false,
-                "AllowJam": false,
-                "AllowOverheat": false,
-                "CanSellOnRagfair": false,
-                "CenterOfImpact": 0.04,
-                "IsUnbuyable": true,
-                "DurabilityBurnRatio": 1.44,
-                "Velocity": 7.2,
-                "PostRecoilHorizontalRangeHandRotation": {
-                    "x": -1,
-                    "y": 1,
-                    "z": 0
-                },
-                "PostRecoilVerticalRangeHandRotation": {
-                    "x": -1,
-                    "y": 0,
-                    "z": 0
-                },
-                "Ergonomics": 41,
-                "InsuranceDisabled": true,
-                "LootExperience": 100,
-                "BaseMalfunctionChance": 0,
-                "RecoilForceBack": 223,
-                "RecoilForceUp": 83,
-                "Weight": 1.2,
-                "CameraSnap": 1.8,
-                "RepairCost": 400,
-                "SingleFireRate": 563,
-                "bFirerate": 813
-            },
-            "templateId": "675e637303dd9694f9dd8b6a"
-        }
-    },
-    "5ac66d725acfc43b321d4b60": {
-        "Legendary": {
-            "tpl": "675e6373cc4b6f0cf718c497",
-            "rarity": "Legendary",
-            "originalTpl": "5ac66d725acfc43b321d4b60",
-            "name": "weapon_izhmash_ak104_762x39",
-            "parentId": "5447b5f14bdc2d61278b4567",
-            "overrides": {
-                "BackgroundColor": "tracerRed",
-                "AllowMisfire": false,
-                "AllowJam": false,
-                "AllowOverheat": false,
-                "CanSellOnRagfair": false,
-                "CenterOfImpact": 0.01,
-                "IsUnbuyable": true,
-                "DurabilityBurnRatio": 1.95,
-                "Velocity": 16.2,
-                "PostRecoilHorizontalRangeHandRotation": {
-                    "x": -0.3,
-                    "y": 0.3,
-                    "z": 0
-                },
-                "PostRecoilVerticalRangeHandRotation": {
-                    "x": -0.3,
-                    "y": 0,
-                    "z": 0
-                },
-                "Ergonomics": 65,
-                "InsuranceDisabled": true,
-                "LootExperience": 450,
-                "BaseMalfunctionChance": 0,
-                "RecoilForceBack": 77,
-                "RecoilForceUp": 28,
-                "Weight": 0.2,
-                "CameraSnap": 0.4,
-                "RepairCost": 1600,
-                "SingleFireRate": 765,
-                "bFirerate": 1020
-            },
-            "templateId": "675e637374be229751226283"
-        },
-        "Epic": {
-            "tpl": "675e6373a0d9859689e48b69",
-            "rarity": "Epic",
-            "originalTpl": "5ac66d725acfc43b321d4b60",
-            "name": "weapon_izhmash_ak104_762x39",
-            "parentId": "5447b5f14bdc2d61278b4567",
-            "overrides": {
-                "BackgroundColor": "tracerYellow",
-                "AllowMisfire": false,
-                "AllowJam": false,
-                "AllowOverheat": false,
-                "CanSellOnRagfair": false,
-                "CenterOfImpact": 0.03,
-                "IsUnbuyable": true,
-                "DurabilityBurnRatio": 1.73,
-                "Velocity": 12.6,
-                "PostRecoilHorizontalRangeHandRotation": {
-                    "x": -0.8,
-                    "y": 0.8,
-                    "z": 0
-                },
-                "PostRecoilVerticalRangeHandRotation": {
-                    "x": -0.7,
-                    "y": 0,
-                    "z": 0
-                },
-                "Ergonomics": 57,
-                "InsuranceDisabled": true,
-                "LootExperience": 200,
-                "BaseMalfunctionChance": 0,
-                "RecoilForceBack": 193,
-                "RecoilForceUp": 70,
-                "Weight": 0.6,
-                "CameraSnap": 1.1,
-                "RepairCost": 1200,
-                "SingleFireRate": 675,
-                "bFirerate": 900
-            },
-            "templateId": "675e6373683f6b8fda77c5b8"
-        },
-        "Rare": {
-            "tpl": "675e637343c1c6d4beb27c5b",
-            "rarity": "Rare",
-            "originalTpl": "5ac66d725acfc43b321d4b60",
-            "name": "weapon_izhmash_ak104_762x39",
-            "parentId": "5447b5f14bdc2d61278b4567",
-            "overrides": {
-                "BackgroundColor": "tracerGreen",
-                "AllowMisfire": false,
-                "AllowJam": false,
-                "AllowOverheat": false,
-                "CanSellOnRagfair": false,
-                "CenterOfImpact": 0.05,
-                "IsUnbuyable": true,
-                "DurabilityBurnRatio": 1.44,
-                "Velocity": 7.2,
-                "PostRecoilHorizontalRangeHandRotation": {
-                    "x": -1,
-                    "y": 1,
-                    "z": 0
-                },
-                "PostRecoilVerticalRangeHandRotation": {
-                    "x": -1,
-                    "y": 0,
-                    "z": 0
-                },
-                "Ergonomics": 48,
-                "InsuranceDisabled": true,
-                "LootExperience": 100,
-                "BaseMalfunctionChance": 0,
-                "RecoilForceBack": 270,
-                "RecoilForceUp": 98,
-                "Weight": 1,
-                "CameraSnap": 1.8,
-                "RepairCost": 400,
-                "SingleFireRate": 563,
-                "bFirerate": 750
-            },
-            "templateId": "675e6373ac5a4ac8e5aff647"
-        }
-    },
-    "5abcbc27d8ce8700182eceeb": {
-        "Legendary": {
-            "tpl": "675e6373e0c8fb0c435312d2",
-            "rarity": "Legendary",
-            "originalTpl": "5abcbc27d8ce8700182eceeb",
-            "name": "weapon_izhmash_akmsn_762x39",
-            "parentId": "5447b5f14bdc2d61278b4567",
-            "overrides": {
-                "BackgroundColor": "tracerRed",
-                "AllowMisfire": false,
-                "AllowJam": false,
-                "AllowOverheat": false,
-                "CanSellOnRagfair": false,
-                "CenterOfImpact": 0.01,
-                "IsUnbuyable": true,
-                "DurabilityBurnRatio": 1.95,
-                "Velocity": 16.2,
-                "PostRecoilHorizontalRangeHandRotation": {
-                    "x": -0.3,
-                    "y": 0.3,
-                    "z": 0
-                },
-                "PostRecoilVerticalRangeHandRotation": {
-                    "x": -0.3,
-                    "y": 0,
-                    "z": 0
-                },
-                "Ergonomics": 41,
-                "InsuranceDisabled": true,
-                "LootExperience": 450,
-                "BaseMalfunctionChance": 0,
-                "RecoilForceBack": 76,
-                "RecoilForceUp": 30,
-                "Weight": 0.2,
-                "CameraSnap": 0.4,
-                "RepairCost": 1600,
-                "SingleFireRate": 765,
-                "bFirerate": 1020
-            },
-            "templateId": "675e63735fcbd9a4eba9ba3b"
-        },
-        "Epic": {
-            "tpl": "675e6373eaec2f633f572bf8",
-            "rarity": "Epic",
-            "originalTpl": "5abcbc27d8ce8700182eceeb",
-            "name": "weapon_izhmash_akmsn_762x39",
-            "parentId": "5447b5f14bdc2d61278b4567",
-            "overrides": {
-                "BackgroundColor": "tracerYellow",
-                "AllowMisfire": false,
-                "AllowJam": false,
-                "AllowOverheat": false,
-                "CanSellOnRagfair": false,
-                "CenterOfImpact": 0.03,
-                "IsUnbuyable": true,
-                "DurabilityBurnRatio": 1.73,
-                "Velocity": 12.6,
-                "PostRecoilHorizontalRangeHandRotation": {
-                    "x": -0.8,
-                    "y": 0.8,
-                    "z": 0
-                },
-                "PostRecoilVerticalRangeHandRotation": {
-                    "x": -0.7,
-                    "y": 0,
-                    "z": 0
-                },
-                "Ergonomics": 36,
-                "InsuranceDisabled": true,
-                "LootExperience": 200,
-                "BaseMalfunctionChance": 0,
-                "RecoilForceBack": 189,
-                "RecoilForceUp": 75,
-                "Weight": 0.6,
-                "CameraSnap": 1.1,
-                "RepairCost": 1200,
-                "SingleFireRate": 675,
-                "bFirerate": 900
-            },
-            "templateId": "675e6373a8fff6a4f65a3bf9"
-        },
-        "Rare": {
-            "tpl": "675e6373e881aa0e23832317",
-            "rarity": "Rare",
-            "originalTpl": "5abcbc27d8ce8700182eceeb",
-            "name": "weapon_izhmash_akmsn_762x39",
-            "parentId": "5447b5f14bdc2d61278b4567",
-            "overrides": {
-                "BackgroundColor": "tracerGreen",
-                "AllowMisfire": false,
-                "AllowJam": false,
-                "AllowOverheat": false,
-                "CanSellOnRagfair": false,
-                "CenterOfImpact": 0.05,
-                "IsUnbuyable": true,
-                "DurabilityBurnRatio": 1.44,
-                "Velocity": 7.2,
-                "PostRecoilHorizontalRangeHandRotation": {
-                    "x": -1,
-                    "y": 1,
-                    "z": 0
-                },
-                "PostRecoilVerticalRangeHandRotation": {
-                    "x": -1,
-                    "y": 0,
-                    "z": 0
-                },
-                "Ergonomics": 30,
-                "InsuranceDisabled": true,
-                "LootExperience": 100,
-                "BaseMalfunctionChance": 0,
-                "RecoilForceBack": 265,
-                "RecoilForceUp": 104,
-                "Weight": 1,
-                "CameraSnap": 1.8,
-                "RepairCost": 400,
-                "SingleFireRate": 563,
-                "bFirerate": 750
-            },
-            "templateId": "675e6373c701d1e1ff554944"
-        }
-    },
-    "576165642459773c7a400233": {
-        "Legendary": {
-            "tpl": "675e63732d9c2969981f340b",
-            "rarity": "Legendary",
-            "originalTpl": "576165642459773c7a400233",
-            "name": "weapon_izhmash_saiga12k_10_12g",
-            "parentId": "5447b6094bdc2dc3278b4567",
-            "overrides": {
-                "BackgroundColor": "tracerRed",
-                "AllowMisfire": false,
-                "AllowJam": false,
-                "AllowOverheat": false,
-                "CanSellOnRagfair": false,
-                "CenterOfImpact": 0.12,
-                "IsUnbuyable": true,
-                "DurabilityBurnRatio": 1.95,
-                "Velocity": 24.3,
-                "PostRecoilHorizontalRangeHandRotation": {
-                    "x": -0.5,
-                    "y": 0.5,
-                    "z": 0
-                },
-                "PostRecoilVerticalRangeHandRotation": {
-                    "x": -0.4,
-                    "y": 0,
-                    "z": 0
-                },
-                "Ergonomics": 60,
-                "InsuranceDisabled": true,
-                "LootExperience": 450,
-                "BaseMalfunctionChance": 0,
-                "RecoilForceBack": 105,
-                "RecoilForceUp": 60,
-                "Weight": 0.3,
-                "CameraSnap": 0.3,
-                "RepairCost": 1600
-            },
-            "templateId": "675e6373a19b1b57a20a8251"
-        },
-        "Epic": {
-            "tpl": "675e6373404a72d24142f27a",
-            "rarity": "Epic",
-            "originalTpl": "576165642459773c7a400233",
-            "name": "weapon_izhmash_saiga12k_10_12g",
-            "parentId": "5447b6094bdc2dc3278b4567",
-            "overrides": {
-                "BackgroundColor": "tracerYellow",
-                "AllowMisfire": false,
-                "AllowJam": false,
-                "AllowOverheat": false,
-                "CanSellOnRagfair": false,
-                "CenterOfImpact": 0.3,
-                "IsUnbuyable": true,
-                "DurabilityBurnRatio": 1.73,
-                "Velocity": 18.9,
-                "PostRecoilHorizontalRangeHandRotation": {
-                    "x": -1.3,
-                    "y": 1.3,
-                    "z": 0
-                },
-                "PostRecoilVerticalRangeHandRotation": {
-                    "x": -1,
-                    "y": 0,
-                    "z": 0
-                },
-                "Ergonomics": 53,
-                "InsuranceDisabled": true,
-                "LootExperience": 200,
-                "BaseMalfunctionChance": 0,
-                "RecoilForceBack": 263,
-                "RecoilForceUp": 149,
-                "Weight": 0.8,
-                "CameraSnap": 0.8,
-                "RepairCost": 1200
-            },
-            "templateId": "675e63737c88177d4a0614a6"
-        },
-        "Rare": {
-            "tpl": "675e6373f945e1833eb7f122",
-            "rarity": "Rare",
-            "originalTpl": "576165642459773c7a400233",
-            "name": "weapon_izhmash_saiga12k_10_12g",
-            "parentId": "5447b6094bdc2dc3278b4567",
-            "overrides": {
-                "BackgroundColor": "tracerGreen",
-                "AllowMisfire": false,
-                "AllowJam": false,
-                "AllowOverheat": false,
-                "CanSellOnRagfair": false,
-                "CenterOfImpact": 0.42,
-                "IsUnbuyable": true,
-                "DurabilityBurnRatio": 1.44,
-                "Velocity": 10.8,
-                "PostRecoilHorizontalRangeHandRotation": {
-                    "x": -1.8,
-                    "y": 1.8,
-                    "z": 0
-                },
-                "PostRecoilVerticalRangeHandRotation": {
-                    "x": -1.4,
-                    "y": 0,
-                    "z": 0
-                },
-                "Ergonomics": 44,
-                "InsuranceDisabled": true,
-                "LootExperience": 100,
-                "BaseMalfunctionChance": 0,
-                "RecoilForceBack": 368,
-                "RecoilForceUp": 209,
-                "Weight": 1.3,
-                "CameraSnap": 1.3,
-                "RepairCost": 400
-            },
-            "templateId": "675e63733c6e0e3c753a2995"
-        }
-    },
-    "59e6152586f77473dc057aa1": {
-        "Legendary": {
-            "tpl": "675e637372656aa5434b1449",
-            "rarity": "Legendary",
-            "originalTpl": "59e6152586f77473dc057aa1",
-            "name": "weapon_molot_vepr_km_vpo_136_762x39",
-            "parentId": "5447b5f14bdc2d61278b4567",
-            "overrides": {
-                "BackgroundColor": "tracerRed",
-                "AllowMisfire": false,
-                "AllowJam": false,
-                "AllowOverheat": false,
-                "CanSellOnRagfair": false,
-                "CenterOfImpact": 0.01,
-                "IsUnbuyable": true,
-                "DurabilityBurnRatio": 1.95,
-                "Velocity": 16.2,
-                "PostRecoilHorizontalRangeHandRotation": {
-                    "x": -0.3,
-                    "y": 0.3,
-                    "z": 0
-                },
-                "PostRecoilVerticalRangeHandRotation": {
-                    "x": -0.3,
-                    "y": 0,
-                    "z": 0
-                },
-                "Ergonomics": 51,
-                "InsuranceDisabled": true,
-                "LootExperience": 450,
-                "BaseMalfunctionChance": 0,
-                "RecoilForceBack": 76,
-                "RecoilForceUp": 30,
-                "Weight": 0.2,
-                "CameraSnap": 0.4,
-                "RepairCost": 1600
-            },
-            "templateId": "675e6373607ef9598a2a69dc"
-        },
-        "Epic": {
-            "tpl": "675e6373e55a41b7c3e22b1f",
-            "rarity": "Epic",
-            "originalTpl": "59e6152586f77473dc057aa1",
-            "name": "weapon_molot_vepr_km_vpo_136_762x39",
-            "parentId": "5447b5f14bdc2d61278b4567",
-            "overrides": {
-                "BackgroundColor": "tracerYellow",
-                "AllowMisfire": false,
-                "AllowJam": false,
-                "AllowOverheat": false,
-                "CanSellOnRagfair": false,
-                "CenterOfImpact": 0.03,
-                "IsUnbuyable": true,
-                "DurabilityBurnRatio": 1.73,
-                "Velocity": 12.6,
-                "PostRecoilHorizontalRangeHandRotation": {
-                    "x": -0.8,
-                    "y": 0.8,
-                    "z": 0
-                },
-                "PostRecoilVerticalRangeHandRotation": {
-                    "x": -0.7,
-                    "y": 0,
-                    "z": 0
-                },
-                "Ergonomics": 45,
-                "InsuranceDisabled": true,
-                "LootExperience": 200,
-                "BaseMalfunctionChance": 0,
-                "RecoilForceBack": 189,
-                "RecoilForceUp": 75,
-                "Weight": 0.6,
-                "CameraSnap": 1.1,
-                "RepairCost": 1200
-            },
-            "templateId": "675e63731ce2e64d9eb2891d"
-        },
-        "Rare": {
-            "tpl": "675e6373a07fcbd966911f53",
-            "rarity": "Rare",
-            "originalTpl": "59e6152586f77473dc057aa1",
-            "name": "weapon_molot_vepr_km_vpo_136_762x39",
-            "parentId": "5447b5f14bdc2d61278b4567",
-            "overrides": {
-                "BackgroundColor": "tracerGreen",
-                "AllowMisfire": false,
-                "AllowJam": false,
-                "AllowOverheat": false,
-                "CanSellOnRagfair": false,
-                "CenterOfImpact": 0.05,
-                "IsUnbuyable": true,
-                "DurabilityBurnRatio": 1.44,
-                "Velocity": 7.2,
-                "PostRecoilHorizontalRangeHandRotation": {
-                    "x": -1,
-                    "y": 1,
-                    "z": 0
-                },
-                "PostRecoilVerticalRangeHandRotation": {
-                    "x": -1,
-                    "y": 0,
-                    "z": 0
-                },
-                "Ergonomics": 38,
-                "InsuranceDisabled": true,
-                "LootExperience": 100,
-                "BaseMalfunctionChance": 0,
-                "RecoilForceBack": 265,
-                "RecoilForceUp": 104,
-                "Weight": 1,
-                "CameraSnap": 1.8,
-                "RepairCost": 400
-            },
-            "templateId": "675e6373f1d5052b58821c42"
+            "templateId": "675f3bba4af98f34034fde51"
         }
     },
     "5bfea6e90db834001b7347f3": {
         "Legendary": {
-            "tpl": "675e637337d6a9d392570cfc",
+            "tpl": "675f3bbaf402e4daa7156cea",
             "rarity": "Legendary",
             "originalTpl": "5bfea6e90db834001b7347f3",
             "name": "weapon_remington_model_700_762x51",
@@ -2568,10 +1848,10 @@
                 "CameraSnap": 0.4,
                 "RepairCost": 1600
             },
-            "templateId": "675e6373b845facaa519260c"
+            "templateId": "675f3bba0b55e7a1da3c3ccc"
         },
         "Epic": {
-            "tpl": "675e6373502e37a7a719f841",
+            "tpl": "675f3bba56411d1895f616ef",
             "rarity": "Epic",
             "originalTpl": "5bfea6e90db834001b7347f3",
             "name": "weapon_remington_model_700_762x51",
@@ -2606,10 +1886,10 @@
                 "CameraSnap": 1.1,
                 "RepairCost": 1200
             },
-            "templateId": "675e63736165ea954e96645c"
+            "templateId": "675f3bba8ce87ef0b65df0ef"
         },
         "Rare": {
-            "tpl": "675e6373f5471c77ba2b59d7",
+            "tpl": "675f3bba0c49eb730d3e3e0b",
             "rarity": "Rare",
             "originalTpl": "5bfea6e90db834001b7347f3",
             "name": "weapon_remington_model_700_762x51",
@@ -2644,12 +1924,12 @@
                 "CameraSnap": 1.8,
                 "RepairCost": 400
             },
-            "templateId": "675e63739cb6d3f43a5525eb"
+            "templateId": "675f3bba9396d3d6f2a82622"
         }
     },
     "5a367e5dc4a282000e49738f": {
         "Legendary": {
-            "tpl": "675e63739eebe531dc17beef",
+            "tpl": "675f3bba8d33df025cfaf774",
             "rarity": "Legendary",
             "originalTpl": "5a367e5dc4a282000e49738f",
             "name": "weapon_remington_r11_rsass_762x51",
@@ -2663,7 +1943,7 @@
                 "CenterOfImpact": 0,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.95,
-                "Velocity": 0,
+                "Velocity": 9,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.2,
                     "y": 0.2,
@@ -2684,10 +1964,10 @@
                 "CameraSnap": 0.4,
                 "RepairCost": 1600
             },
-            "templateId": "675e6373654da0268b2a969f"
+            "templateId": "675f3bba6a7d7c36d2b93a74"
         },
         "Epic": {
-            "tpl": "675e6373ef3a64197b41321b",
+            "tpl": "675f3bba4a05dbe9a8c01644",
             "rarity": "Epic",
             "originalTpl": "5a367e5dc4a282000e49738f",
             "name": "weapon_remington_r11_rsass_762x51",
@@ -2701,7 +1981,7 @@
                 "CenterOfImpact": 0,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.73,
-                "Velocity": 0,
+                "Velocity": 7,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.5,
                     "y": 0.5,
@@ -2722,10 +2002,10 @@
                 "CameraSnap": 1.1,
                 "RepairCost": 1200
             },
-            "templateId": "675e6373be53e5ff69b1d8e0"
+            "templateId": "675f3bbad42cedc12fced3fa"
         },
         "Rare": {
-            "tpl": "675e6373ccdcdc026cb08f01",
+            "tpl": "675f3bbaef1afdd2f93b91a5",
             "rarity": "Rare",
             "originalTpl": "5a367e5dc4a282000e49738f",
             "name": "weapon_remington_r11_rsass_762x51",
@@ -2739,7 +2019,7 @@
                 "CenterOfImpact": 0,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.44,
-                "Velocity": 0,
+                "Velocity": 4,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.7,
                     "y": 0.7,
@@ -2760,12 +2040,12 @@
                 "CameraSnap": 1.8,
                 "RepairCost": 400
             },
-            "templateId": "675e6373196f59cbb54e5f6a"
+            "templateId": "675f3bba1f79bdd45adef0e0"
         }
     },
     "5ab8e9fcd8ce870019439434": {
         "Legendary": {
-            "tpl": "675e63731ef0212613805ef6",
+            "tpl": "675f3bbadef17dd4c5cbc067",
             "rarity": "Legendary",
             "originalTpl": "5ab8e9fcd8ce870019439434",
             "name": "weapon_izhmash_aks74n_545x39",
@@ -2802,10 +2082,10 @@
                 "SingleFireRate": 765,
                 "bFirerate": 1105
             },
-            "templateId": "675e6373b3553b86750af263"
+            "templateId": "675f3bbab9898c9e239296e0"
         },
         "Epic": {
-            "tpl": "675e6373669dc455912d1d2f",
+            "tpl": "675f3bba6a4a1617b23c30f2",
             "rarity": "Epic",
             "originalTpl": "5ab8e9fcd8ce870019439434",
             "name": "weapon_izhmash_aks74n_545x39",
@@ -2842,10 +2122,10 @@
                 "SingleFireRate": 675,
                 "bFirerate": 975
             },
-            "templateId": "675e6373bf37ffaf105cfcd8"
+            "templateId": "675f3bba19258f81d141766d"
         },
         "Rare": {
-            "tpl": "675e6373c31b594ec8a53625",
+            "tpl": "675f3bba74b760923cdccddc",
             "rarity": "Rare",
             "originalTpl": "5ab8e9fcd8ce870019439434",
             "name": "weapon_izhmash_aks74n_545x39",
@@ -2882,29 +2162,29 @@
                 "SingleFireRate": 563,
                 "bFirerate": 813
             },
-            "templateId": "675e6373a319c710f8b066f9"
+            "templateId": "675f3bba3d36db9383775b0a"
         }
     },
-    "59984ab886f7743e98271174": {
+    "5ac4cd105acfc40016339859": {
         "Legendary": {
-            "tpl": "675e63737f718289a6ea1be3",
+            "tpl": "675f3bbaa625c1504da00a42",
             "rarity": "Legendary",
-            "originalTpl": "59984ab886f7743e98271174",
-            "name": "weapon_izhmash_pp-19-01_9x19",
-            "parentId": "5447b5e04bdc2d62278b4567",
+            "originalTpl": "5ac4cd105acfc40016339859",
+            "name": "weapon_izhmash_ak74m_545x39",
+            "parentId": "5447b5f14bdc2d61278b4567",
             "overrides": {
                 "BackgroundColor": "tracerRed",
                 "AllowMisfire": false,
                 "AllowJam": false,
                 "AllowOverheat": false,
                 "CanSellOnRagfair": false,
-                "CenterOfImpact": 0.03,
+                "CenterOfImpact": 0.01,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.95,
-                "Velocity": -161.1,
+                "Velocity": 16.2,
                 "PostRecoilHorizontalRangeHandRotation": {
-                    "x": -0.4,
-                    "y": 0.4,
+                    "x": -0.3,
+                    "y": 0.3,
                     "z": 0
                 },
                 "PostRecoilVerticalRangeHandRotation": {
@@ -2912,43 +2192,285 @@
                     "y": 0,
                     "z": 0
                 },
-                "Ergonomics": 60,
+                "Ergonomics": 56,
                 "InsuranceDisabled": true,
                 "LootExperience": 450,
                 "BaseMalfunctionChance": 0,
-                "RecoilForceBack": 54,
-                "RecoilForceUp": 12,
+                "RecoilForceBack": 64,
+                "RecoilForceUp": 24,
                 "Weight": 0.2,
                 "CameraSnap": 0.4,
                 "RepairCost": 1600,
                 "SingleFireRate": 765,
-                "bFirerate": 1190
+                "bFirerate": 1105
             },
-            "templateId": "675e6373c642160ff6b94124"
+            "templateId": "675f3bba0e18d0649a41b277"
         },
         "Epic": {
-            "tpl": "675e6373e6fa4b647f1b4de2",
+            "tpl": "675f3bbac40de5d75f65ee31",
             "rarity": "Epic",
-            "originalTpl": "59984ab886f7743e98271174",
-            "name": "weapon_izhmash_pp-19-01_9x19",
-            "parentId": "5447b5e04bdc2d62278b4567",
+            "originalTpl": "5ac4cd105acfc40016339859",
+            "name": "weapon_izhmash_ak74m_545x39",
+            "parentId": "5447b5f14bdc2d61278b4567",
             "overrides": {
                 "BackgroundColor": "tracerYellow",
                 "AllowMisfire": false,
                 "AllowJam": false,
                 "AllowOverheat": false,
                 "CanSellOnRagfair": false,
-                "CenterOfImpact": 0.07,
+                "CenterOfImpact": 0.03,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.73,
-                "Velocity": -125.3,
+                "Velocity": 12.6,
+                "PostRecoilHorizontalRangeHandRotation": {
+                    "x": -0.8,
+                    "y": 0.8,
+                    "z": 0
+                },
+                "PostRecoilVerticalRangeHandRotation": {
+                    "x": -0.7,
+                    "y": 0,
+                    "z": 0
+                },
+                "Ergonomics": 50,
+                "InsuranceDisabled": true,
+                "LootExperience": 200,
+                "BaseMalfunctionChance": 0,
+                "RecoilForceBack": 159,
+                "RecoilForceUp": 59,
+                "Weight": 0.7,
+                "CameraSnap": 1.1,
+                "RepairCost": 1200,
+                "SingleFireRate": 675,
+                "bFirerate": 975
+            },
+            "templateId": "675f3bba75060859423931fd"
+        },
+        "Rare": {
+            "tpl": "675f3bba3d68a9687f72a06d",
+            "rarity": "Rare",
+            "originalTpl": "5ac4cd105acfc40016339859",
+            "name": "weapon_izhmash_ak74m_545x39",
+            "parentId": "5447b5f14bdc2d61278b4567",
+            "overrides": {
+                "BackgroundColor": "tracerGreen",
+                "AllowMisfire": false,
+                "AllowJam": false,
+                "AllowOverheat": false,
+                "CanSellOnRagfair": false,
+                "CenterOfImpact": 0.04,
+                "IsUnbuyable": true,
+                "DurabilityBurnRatio": 1.44,
+                "Velocity": 7.2,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -1,
                     "y": 1,
                     "z": 0
                 },
                 "PostRecoilVerticalRangeHandRotation": {
-                    "x": -0.6,
+                    "x": -1,
+                    "y": 0,
+                    "z": 0
+                },
+                "Ergonomics": 41,
+                "InsuranceDisabled": true,
+                "LootExperience": 100,
+                "BaseMalfunctionChance": 0,
+                "RecoilForceBack": 223,
+                "RecoilForceUp": 83,
+                "Weight": 1.2,
+                "CameraSnap": 1.8,
+                "RepairCost": 400,
+                "SingleFireRate": 563,
+                "bFirerate": 813
+            },
+            "templateId": "675f3bbacd753e67a57eb181"
+        }
+    },
+    "5ac66d725acfc43b321d4b60": {
+        "Legendary": {
+            "tpl": "675f3bbaa6cfacd62aee8cc1",
+            "rarity": "Legendary",
+            "originalTpl": "5ac66d725acfc43b321d4b60",
+            "name": "weapon_izhmash_ak104_762x39",
+            "parentId": "5447b5f14bdc2d61278b4567",
+            "overrides": {
+                "BackgroundColor": "tracerRed",
+                "AllowMisfire": false,
+                "AllowJam": false,
+                "AllowOverheat": false,
+                "CanSellOnRagfair": false,
+                "CenterOfImpact": 0.01,
+                "IsUnbuyable": true,
+                "DurabilityBurnRatio": 1.95,
+                "Velocity": 16.2,
+                "PostRecoilHorizontalRangeHandRotation": {
+                    "x": -0.3,
+                    "y": 0.3,
+                    "z": 0
+                },
+                "PostRecoilVerticalRangeHandRotation": {
+                    "x": -0.3,
+                    "y": 0,
+                    "z": 0
+                },
+                "Ergonomics": 65,
+                "InsuranceDisabled": true,
+                "LootExperience": 450,
+                "BaseMalfunctionChance": 0,
+                "RecoilForceBack": 77,
+                "RecoilForceUp": 28,
+                "Weight": 0.2,
+                "CameraSnap": 0.4,
+                "RepairCost": 1600,
+                "SingleFireRate": 765,
+                "bFirerate": 1020
+            },
+            "templateId": "675f3bba87001ddd8c8db04d"
+        },
+        "Epic": {
+            "tpl": "675f3bbae6c3bfb9272b5d35",
+            "rarity": "Epic",
+            "originalTpl": "5ac66d725acfc43b321d4b60",
+            "name": "weapon_izhmash_ak104_762x39",
+            "parentId": "5447b5f14bdc2d61278b4567",
+            "overrides": {
+                "BackgroundColor": "tracerYellow",
+                "AllowMisfire": false,
+                "AllowJam": false,
+                "AllowOverheat": false,
+                "CanSellOnRagfair": false,
+                "CenterOfImpact": 0.03,
+                "IsUnbuyable": true,
+                "DurabilityBurnRatio": 1.73,
+                "Velocity": 12.6,
+                "PostRecoilHorizontalRangeHandRotation": {
+                    "x": -0.8,
+                    "y": 0.8,
+                    "z": 0
+                },
+                "PostRecoilVerticalRangeHandRotation": {
+                    "x": -0.7,
+                    "y": 0,
+                    "z": 0
+                },
+                "Ergonomics": 57,
+                "InsuranceDisabled": true,
+                "LootExperience": 200,
+                "BaseMalfunctionChance": 0,
+                "RecoilForceBack": 193,
+                "RecoilForceUp": 70,
+                "Weight": 0.6,
+                "CameraSnap": 1.1,
+                "RepairCost": 1200,
+                "SingleFireRate": 675,
+                "bFirerate": 900
+            },
+            "templateId": "675f3bba84491061708e40b5"
+        },
+        "Rare": {
+            "tpl": "675f3bbaa362f6747f286ca2",
+            "rarity": "Rare",
+            "originalTpl": "5ac66d725acfc43b321d4b60",
+            "name": "weapon_izhmash_ak104_762x39",
+            "parentId": "5447b5f14bdc2d61278b4567",
+            "overrides": {
+                "BackgroundColor": "tracerGreen",
+                "AllowMisfire": false,
+                "AllowJam": false,
+                "AllowOverheat": false,
+                "CanSellOnRagfair": false,
+                "CenterOfImpact": 0.05,
+                "IsUnbuyable": true,
+                "DurabilityBurnRatio": 1.44,
+                "Velocity": 7.2,
+                "PostRecoilHorizontalRangeHandRotation": {
+                    "x": -1,
+                    "y": 1,
+                    "z": 0
+                },
+                "PostRecoilVerticalRangeHandRotation": {
+                    "x": -1,
+                    "y": 0,
+                    "z": 0
+                },
+                "Ergonomics": 48,
+                "InsuranceDisabled": true,
+                "LootExperience": 100,
+                "BaseMalfunctionChance": 0,
+                "RecoilForceBack": 270,
+                "RecoilForceUp": 98,
+                "Weight": 1,
+                "CameraSnap": 1.8,
+                "RepairCost": 400,
+                "SingleFireRate": 563,
+                "bFirerate": 750
+            },
+            "templateId": "675f3bba6acc9da133164e9d"
+        }
+    },
+    "576165642459773c7a400233": {
+        "Legendary": {
+            "tpl": "675f3bba7f802c75502768a6",
+            "rarity": "Legendary",
+            "originalTpl": "576165642459773c7a400233",
+            "name": "weapon_izhmash_saiga12k_10_12g",
+            "parentId": "5447b6094bdc2dc3278b4567",
+            "overrides": {
+                "BackgroundColor": "tracerRed",
+                "AllowMisfire": false,
+                "AllowJam": false,
+                "AllowOverheat": false,
+                "CanSellOnRagfair": false,
+                "CenterOfImpact": 0.12,
+                "IsUnbuyable": true,
+                "DurabilityBurnRatio": 1.95,
+                "Velocity": 24.3,
+                "PostRecoilHorizontalRangeHandRotation": {
+                    "x": -0.5,
+                    "y": 0.5,
+                    "z": 0
+                },
+                "PostRecoilVerticalRangeHandRotation": {
+                    "x": -0.4,
+                    "y": 0,
+                    "z": 0
+                },
+                "Ergonomics": 60,
+                "InsuranceDisabled": true,
+                "LootExperience": 450,
+                "BaseMalfunctionChance": 0,
+                "RecoilForceBack": 105,
+                "RecoilForceUp": 60,
+                "Weight": 0.3,
+                "CameraSnap": 0.3,
+                "RepairCost": 1600
+            },
+            "templateId": "675f3bbadafd74ce32978822"
+        },
+        "Epic": {
+            "tpl": "675f3bba962da33479f40951",
+            "rarity": "Epic",
+            "originalTpl": "576165642459773c7a400233",
+            "name": "weapon_izhmash_saiga12k_10_12g",
+            "parentId": "5447b6094bdc2dc3278b4567",
+            "overrides": {
+                "BackgroundColor": "tracerYellow",
+                "AllowMisfire": false,
+                "AllowJam": false,
+                "AllowOverheat": false,
+                "CanSellOnRagfair": false,
+                "CenterOfImpact": 0.3,
+                "IsUnbuyable": true,
+                "DurabilityBurnRatio": 1.73,
+                "Velocity": 18.9,
+                "PostRecoilHorizontalRangeHandRotation": {
+                    "x": -1.3,
+                    "y": 1.3,
+                    "z": 0
+                },
+                "PostRecoilVerticalRangeHandRotation": {
+                    "x": -1,
                     "y": 0,
                     "z": 0
                 },
@@ -2956,39 +2478,37 @@
                 "InsuranceDisabled": true,
                 "LootExperience": 200,
                 "BaseMalfunctionChance": 0,
-                "RecoilForceBack": 135,
-                "RecoilForceUp": 29,
-                "Weight": 0.5,
-                "CameraSnap": 1.1,
-                "RepairCost": 1200,
-                "SingleFireRate": 675,
-                "bFirerate": 1050
+                "RecoilForceBack": 263,
+                "RecoilForceUp": 149,
+                "Weight": 0.8,
+                "CameraSnap": 0.8,
+                "RepairCost": 1200
             },
-            "templateId": "675e63733d9e565e74f6ad67"
+            "templateId": "675f3bba091a7ceda2ce84c3"
         },
         "Rare": {
-            "tpl": "675e6373ca0f7a4a0bfa76e4",
+            "tpl": "675f3bba816f5ac88d77cb56",
             "rarity": "Rare",
-            "originalTpl": "59984ab886f7743e98271174",
-            "name": "weapon_izhmash_pp-19-01_9x19",
-            "parentId": "5447b5e04bdc2d62278b4567",
+            "originalTpl": "576165642459773c7a400233",
+            "name": "weapon_izhmash_saiga12k_10_12g",
+            "parentId": "5447b6094bdc2dc3278b4567",
             "overrides": {
                 "BackgroundColor": "tracerGreen",
                 "AllowMisfire": false,
                 "AllowJam": false,
                 "AllowOverheat": false,
                 "CanSellOnRagfair": false,
-                "CenterOfImpact": 0.09,
+                "CenterOfImpact": 0.42,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.44,
-                "Velocity": -71.6,
+                "Velocity": 10.8,
                 "PostRecoilHorizontalRangeHandRotation": {
-                    "x": -1.4,
-                    "y": 1.4,
+                    "x": -1.8,
+                    "y": 1.8,
                     "z": 0
                 },
                 "PostRecoilVerticalRangeHandRotation": {
-                    "x": -0.9,
+                    "x": -1.4,
                     "y": 0,
                     "z": 0
                 },
@@ -2996,20 +2516,256 @@
                 "InsuranceDisabled": true,
                 "LootExperience": 100,
                 "BaseMalfunctionChance": 0,
+                "RecoilForceBack": 368,
+                "RecoilForceUp": 209,
+                "Weight": 1.3,
+                "CameraSnap": 1.3,
+                "RepairCost": 400
+            },
+            "templateId": "675f3bbaa34f46d8a2a669d7"
+        }
+    },
+    "59e6152586f77473dc057aa1": {
+        "Legendary": {
+            "tpl": "675f3bbae3cfdd795e4483d2",
+            "rarity": "Legendary",
+            "originalTpl": "59e6152586f77473dc057aa1",
+            "name": "weapon_molot_vepr_km_vpo_136_762x39",
+            "parentId": "5447b5f14bdc2d61278b4567",
+            "overrides": {
+                "BackgroundColor": "tracerRed",
+                "AllowMisfire": false,
+                "AllowJam": false,
+                "AllowOverheat": false,
+                "CanSellOnRagfair": false,
+                "CenterOfImpact": 0.01,
+                "IsUnbuyable": true,
+                "DurabilityBurnRatio": 1.95,
+                "Velocity": 16.2,
+                "PostRecoilHorizontalRangeHandRotation": {
+                    "x": -0.3,
+                    "y": 0.3,
+                    "z": 0
+                },
+                "PostRecoilVerticalRangeHandRotation": {
+                    "x": -0.3,
+                    "y": 0,
+                    "z": 0
+                },
+                "Ergonomics": 51,
+                "InsuranceDisabled": true,
+                "LootExperience": 450,
+                "BaseMalfunctionChance": 0,
+                "RecoilForceBack": 76,
+                "RecoilForceUp": 30,
+                "Weight": 0.2,
+                "CameraSnap": 0.4,
+                "RepairCost": 1600
+            },
+            "templateId": "675f3bbaeed961814381235d"
+        },
+        "Epic": {
+            "tpl": "675f3bbaee1615b296df98e5",
+            "rarity": "Epic",
+            "originalTpl": "59e6152586f77473dc057aa1",
+            "name": "weapon_molot_vepr_km_vpo_136_762x39",
+            "parentId": "5447b5f14bdc2d61278b4567",
+            "overrides": {
+                "BackgroundColor": "tracerYellow",
+                "AllowMisfire": false,
+                "AllowJam": false,
+                "AllowOverheat": false,
+                "CanSellOnRagfair": false,
+                "CenterOfImpact": 0.03,
+                "IsUnbuyable": true,
+                "DurabilityBurnRatio": 1.73,
+                "Velocity": 12.6,
+                "PostRecoilHorizontalRangeHandRotation": {
+                    "x": -0.8,
+                    "y": 0.8,
+                    "z": 0
+                },
+                "PostRecoilVerticalRangeHandRotation": {
+                    "x": -0.7,
+                    "y": 0,
+                    "z": 0
+                },
+                "Ergonomics": 45,
+                "InsuranceDisabled": true,
+                "LootExperience": 200,
+                "BaseMalfunctionChance": 0,
                 "RecoilForceBack": 189,
-                "RecoilForceUp": 41,
-                "Weight": 0.9,
+                "RecoilForceUp": 75,
+                "Weight": 0.6,
+                "CameraSnap": 1.1,
+                "RepairCost": 1200
+            },
+            "templateId": "675f3bbaad0e64df0497f59f"
+        },
+        "Rare": {
+            "tpl": "675f3bba9799876bd2b3e735",
+            "rarity": "Rare",
+            "originalTpl": "59e6152586f77473dc057aa1",
+            "name": "weapon_molot_vepr_km_vpo_136_762x39",
+            "parentId": "5447b5f14bdc2d61278b4567",
+            "overrides": {
+                "BackgroundColor": "tracerGreen",
+                "AllowMisfire": false,
+                "AllowJam": false,
+                "AllowOverheat": false,
+                "CanSellOnRagfair": false,
+                "CenterOfImpact": 0.05,
+                "IsUnbuyable": true,
+                "DurabilityBurnRatio": 1.44,
+                "Velocity": 7.2,
+                "PostRecoilHorizontalRangeHandRotation": {
+                    "x": -1,
+                    "y": 1,
+                    "z": 0
+                },
+                "PostRecoilVerticalRangeHandRotation": {
+                    "x": -1,
+                    "y": 0,
+                    "z": 0
+                },
+                "Ergonomics": 38,
+                "InsuranceDisabled": true,
+                "LootExperience": 100,
+                "BaseMalfunctionChance": 0,
+                "RecoilForceBack": 265,
+                "RecoilForceUp": 104,
+                "Weight": 1,
+                "CameraSnap": 1.8,
+                "RepairCost": 400
+            },
+            "templateId": "675f3bba011f5cdd1feb3f1e"
+        }
+    },
+    "5abcbc27d8ce8700182eceeb": {
+        "Legendary": {
+            "tpl": "675f3bba23ed94457b495a1c",
+            "rarity": "Legendary",
+            "originalTpl": "5abcbc27d8ce8700182eceeb",
+            "name": "weapon_izhmash_akmsn_762x39",
+            "parentId": "5447b5f14bdc2d61278b4567",
+            "overrides": {
+                "BackgroundColor": "tracerRed",
+                "AllowMisfire": false,
+                "AllowJam": false,
+                "AllowOverheat": false,
+                "CanSellOnRagfair": false,
+                "CenterOfImpact": 0.01,
+                "IsUnbuyable": true,
+                "DurabilityBurnRatio": 1.95,
+                "Velocity": 16.2,
+                "PostRecoilHorizontalRangeHandRotation": {
+                    "x": -0.3,
+                    "y": 0.3,
+                    "z": 0
+                },
+                "PostRecoilVerticalRangeHandRotation": {
+                    "x": -0.3,
+                    "y": 0,
+                    "z": 0
+                },
+                "Ergonomics": 41,
+                "InsuranceDisabled": true,
+                "LootExperience": 450,
+                "BaseMalfunctionChance": 0,
+                "RecoilForceBack": 76,
+                "RecoilForceUp": 30,
+                "Weight": 0.2,
+                "CameraSnap": 0.4,
+                "RepairCost": 1600,
+                "SingleFireRate": 765,
+                "bFirerate": 1020
+            },
+            "templateId": "675f3bba918df8846a75ef1c"
+        },
+        "Epic": {
+            "tpl": "675f3bba0705d231ac0690c7",
+            "rarity": "Epic",
+            "originalTpl": "5abcbc27d8ce8700182eceeb",
+            "name": "weapon_izhmash_akmsn_762x39",
+            "parentId": "5447b5f14bdc2d61278b4567",
+            "overrides": {
+                "BackgroundColor": "tracerYellow",
+                "AllowMisfire": false,
+                "AllowJam": false,
+                "AllowOverheat": false,
+                "CanSellOnRagfair": false,
+                "CenterOfImpact": 0.03,
+                "IsUnbuyable": true,
+                "DurabilityBurnRatio": 1.73,
+                "Velocity": 12.6,
+                "PostRecoilHorizontalRangeHandRotation": {
+                    "x": -0.8,
+                    "y": 0.8,
+                    "z": 0
+                },
+                "PostRecoilVerticalRangeHandRotation": {
+                    "x": -0.7,
+                    "y": 0,
+                    "z": 0
+                },
+                "Ergonomics": 36,
+                "InsuranceDisabled": true,
+                "LootExperience": 200,
+                "BaseMalfunctionChance": 0,
+                "RecoilForceBack": 189,
+                "RecoilForceUp": 75,
+                "Weight": 0.6,
+                "CameraSnap": 1.1,
+                "RepairCost": 1200,
+                "SingleFireRate": 675,
+                "bFirerate": 900
+            },
+            "templateId": "675f3bba8fcebc6184656032"
+        },
+        "Rare": {
+            "tpl": "675f3bbacb28ed7ff933ca93",
+            "rarity": "Rare",
+            "originalTpl": "5abcbc27d8ce8700182eceeb",
+            "name": "weapon_izhmash_akmsn_762x39",
+            "parentId": "5447b5f14bdc2d61278b4567",
+            "overrides": {
+                "BackgroundColor": "tracerGreen",
+                "AllowMisfire": false,
+                "AllowJam": false,
+                "AllowOverheat": false,
+                "CanSellOnRagfair": false,
+                "CenterOfImpact": 0.05,
+                "IsUnbuyable": true,
+                "DurabilityBurnRatio": 1.44,
+                "Velocity": 7.2,
+                "PostRecoilHorizontalRangeHandRotation": {
+                    "x": -1,
+                    "y": 1,
+                    "z": 0
+                },
+                "PostRecoilVerticalRangeHandRotation": {
+                    "x": -1,
+                    "y": 0,
+                    "z": 0
+                },
+                "Ergonomics": 30,
+                "InsuranceDisabled": true,
+                "LootExperience": 100,
+                "BaseMalfunctionChance": 0,
+                "RecoilForceBack": 265,
+                "RecoilForceUp": 104,
+                "Weight": 1,
                 "CameraSnap": 1.8,
                 "RepairCost": 400,
                 "SingleFireRate": 563,
-                "bFirerate": 875
+                "bFirerate": 750
             },
-            "templateId": "675e63730a815158a5c5cd26"
+            "templateId": "675f3bba823d3a2c2673f9e0"
         }
     },
     "5c501a4d2e221602b412b540": {
         "Legendary": {
-            "tpl": "675e6373608f642fc3bc7321",
+            "tpl": "675f3bba69bbc340d2c3a8e4",
             "rarity": "Legendary",
             "originalTpl": "5c501a4d2e221602b412b540",
             "name": "weapon_molot_vepr_hunter_vpo-101_762x51",
@@ -3044,10 +2800,10 @@
                 "CameraSnap": 0.4,
                 "RepairCost": 1600
             },
-            "templateId": "675e637330c235236e05020e"
+            "templateId": "675f3bbabfa31473afcf9191"
         },
         "Epic": {
-            "tpl": "675e63734f9e01cef097b149",
+            "tpl": "675f3bba2d3f561e0a036044",
             "rarity": "Epic",
             "originalTpl": "5c501a4d2e221602b412b540",
             "name": "weapon_molot_vepr_hunter_vpo-101_762x51",
@@ -3082,10 +2838,10 @@
                 "CameraSnap": 1.1,
                 "RepairCost": 1200
             },
-            "templateId": "675e6373d64771888e52a022"
+            "templateId": "675f3bbaaba80f302a6cefa3"
         },
         "Rare": {
-            "tpl": "675e637349190c880ab9b6c4",
+            "tpl": "675f3bba24a156a6f1625fc8",
             "rarity": "Rare",
             "originalTpl": "5c501a4d2e221602b412b540",
             "name": "weapon_molot_vepr_hunter_vpo-101_762x51",
@@ -3120,12 +2876,12 @@
                 "CameraSnap": 1.8,
                 "RepairCost": 400
             },
-            "templateId": "675e6373c8490eb04cd8d12f"
+            "templateId": "675f3bba88e6e6180c5f657a"
         }
     },
     "5df8ce05b11454561e39243b": {
         "Legendary": {
-            "tpl": "675e637363c9b9d1b124d282",
+            "tpl": "675f3bbad1c200b6bcb84da0",
             "rarity": "Legendary",
             "originalTpl": "5df8ce05b11454561e39243b",
             "name": "weapon_kac_sr25_762x51",
@@ -3139,7 +2895,7 @@
                 "CenterOfImpact": 0,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.95,
-                "Velocity": 0,
+                "Velocity": 9,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.2,
                     "y": 0.2,
@@ -3160,10 +2916,10 @@
                 "CameraSnap": 0.4,
                 "RepairCost": 1600
             },
-            "templateId": "675e6373c1c6bcf796456def"
+            "templateId": "675f3bba0771ca532b29ae24"
         },
         "Epic": {
-            "tpl": "675e637320153d6abb7a4521",
+            "tpl": "675f3bbafc6b44a98fc88b44",
             "rarity": "Epic",
             "originalTpl": "5df8ce05b11454561e39243b",
             "name": "weapon_kac_sr25_762x51",
@@ -3177,7 +2933,7 @@
                 "CenterOfImpact": 0,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.73,
-                "Velocity": 0,
+                "Velocity": 7,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.5,
                     "y": 0.5,
@@ -3198,10 +2954,10 @@
                 "CameraSnap": 1.1,
                 "RepairCost": 1200
             },
-            "templateId": "675e637383d04d626762edfe"
+            "templateId": "675f3bba48433d2f4396cb57"
         },
         "Rare": {
-            "tpl": "675e63730d7c61bd88e5dd9e",
+            "tpl": "675f3bbadd4c4df1f887dd8b",
             "rarity": "Rare",
             "originalTpl": "5df8ce05b11454561e39243b",
             "name": "weapon_kac_sr25_762x51",
@@ -3215,7 +2971,7 @@
                 "CenterOfImpact": 0,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.44,
-                "Velocity": 0,
+                "Velocity": 4,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.7,
                     "y": 0.7,
@@ -3236,12 +2992,134 @@
                 "CameraSnap": 1.8,
                 "RepairCost": 400
             },
-            "templateId": "675e63736b011c56418f2a77"
+            "templateId": "675f3bba31254b5b172c6404"
+        }
+    },
+    "59984ab886f7743e98271174": {
+        "Legendary": {
+            "tpl": "675f3bbaed40f2d652c00895",
+            "rarity": "Legendary",
+            "originalTpl": "59984ab886f7743e98271174",
+            "name": "weapon_izhmash_pp-19-01_9x19",
+            "parentId": "5447b5e04bdc2d62278b4567",
+            "overrides": {
+                "BackgroundColor": "tracerRed",
+                "AllowMisfire": false,
+                "AllowJam": false,
+                "AllowOverheat": false,
+                "CanSellOnRagfair": false,
+                "CenterOfImpact": 0.03,
+                "IsUnbuyable": true,
+                "DurabilityBurnRatio": 1.95,
+                "Velocity": 9,
+                "PostRecoilHorizontalRangeHandRotation": {
+                    "x": -0.4,
+                    "y": 0.4,
+                    "z": 0
+                },
+                "PostRecoilVerticalRangeHandRotation": {
+                    "x": -0.3,
+                    "y": 0,
+                    "z": 0
+                },
+                "Ergonomics": 60,
+                "InsuranceDisabled": true,
+                "LootExperience": 450,
+                "BaseMalfunctionChance": 0,
+                "RecoilForceBack": 54,
+                "RecoilForceUp": 12,
+                "Weight": 0.2,
+                "CameraSnap": 0.4,
+                "RepairCost": 1600,
+                "SingleFireRate": 765,
+                "bFirerate": 1190
+            },
+            "templateId": "675f3bba841eeb21f8893511"
+        },
+        "Epic": {
+            "tpl": "675f3bba8dfdbffd0d5ef502",
+            "rarity": "Epic",
+            "originalTpl": "59984ab886f7743e98271174",
+            "name": "weapon_izhmash_pp-19-01_9x19",
+            "parentId": "5447b5e04bdc2d62278b4567",
+            "overrides": {
+                "BackgroundColor": "tracerYellow",
+                "AllowMisfire": false,
+                "AllowJam": false,
+                "AllowOverheat": false,
+                "CanSellOnRagfair": false,
+                "CenterOfImpact": 0.07,
+                "IsUnbuyable": true,
+                "DurabilityBurnRatio": 1.73,
+                "Velocity": 7,
+                "PostRecoilHorizontalRangeHandRotation": {
+                    "x": -1,
+                    "y": 1,
+                    "z": 0
+                },
+                "PostRecoilVerticalRangeHandRotation": {
+                    "x": -0.6,
+                    "y": 0,
+                    "z": 0
+                },
+                "Ergonomics": 53,
+                "InsuranceDisabled": true,
+                "LootExperience": 200,
+                "BaseMalfunctionChance": 0,
+                "RecoilForceBack": 135,
+                "RecoilForceUp": 29,
+                "Weight": 0.5,
+                "CameraSnap": 1.1,
+                "RepairCost": 1200,
+                "SingleFireRate": 675,
+                "bFirerate": 1050
+            },
+            "templateId": "675f3bba53c800460fcb4df6"
+        },
+        "Rare": {
+            "tpl": "675f3bba6d124cba0c828687",
+            "rarity": "Rare",
+            "originalTpl": "59984ab886f7743e98271174",
+            "name": "weapon_izhmash_pp-19-01_9x19",
+            "parentId": "5447b5e04bdc2d62278b4567",
+            "overrides": {
+                "BackgroundColor": "tracerGreen",
+                "AllowMisfire": false,
+                "AllowJam": false,
+                "AllowOverheat": false,
+                "CanSellOnRagfair": false,
+                "CenterOfImpact": 0.09,
+                "IsUnbuyable": true,
+                "DurabilityBurnRatio": 1.44,
+                "Velocity": 4,
+                "PostRecoilHorizontalRangeHandRotation": {
+                    "x": -1.4,
+                    "y": 1.4,
+                    "z": 0
+                },
+                "PostRecoilVerticalRangeHandRotation": {
+                    "x": -0.9,
+                    "y": 0,
+                    "z": 0
+                },
+                "Ergonomics": 44,
+                "InsuranceDisabled": true,
+                "LootExperience": 100,
+                "BaseMalfunctionChance": 0,
+                "RecoilForceBack": 189,
+                "RecoilForceUp": 41,
+                "Weight": 0.9,
+                "CameraSnap": 1.8,
+                "RepairCost": 400,
+                "SingleFireRate": 563,
+                "bFirerate": 875
+            },
+            "templateId": "675f3bba62aa6258d1ae3cf3"
         }
     },
     "57dc2fa62459775949412633": {
         "Legendary": {
-            "tpl": "675e637347fa5ce056dae71a",
+            "tpl": "675f3bbae8a03c193c457338",
             "rarity": "Legendary",
             "originalTpl": "57dc2fa62459775949412633",
             "name": "weapon_izhmash_aks74u_545x39",
@@ -3255,7 +3133,7 @@
                 "CenterOfImpact": 0.02,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.95,
-                "Velocity": -161.1,
+                "Velocity": 9,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.3,
                     "y": 0.3,
@@ -3278,10 +3156,10 @@
                 "SingleFireRate": 765,
                 "bFirerate": 1105
             },
-            "templateId": "675e6373f21bbc2e4e7c990d"
+            "templateId": "675f3bba73556d8144f9fbb4"
         },
         "Epic": {
-            "tpl": "675e63738013923ed0921d2d",
+            "tpl": "675f3bba7e53d5b5c132257f",
             "rarity": "Epic",
             "originalTpl": "57dc2fa62459775949412633",
             "name": "weapon_izhmash_aks74u_545x39",
@@ -3295,7 +3173,7 @@
                 "CenterOfImpact": 0.05,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.73,
-                "Velocity": -125.3,
+                "Velocity": 7,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.8,
                     "y": 0.8,
@@ -3318,10 +3196,10 @@
                 "SingleFireRate": 675,
                 "bFirerate": 975
             },
-            "templateId": "675e6373c981971c6f3def9d"
+            "templateId": "675f3bbab3c6c076d1cb2140"
         },
         "Rare": {
-            "tpl": "675e6373fbd03f74e1372332",
+            "tpl": "675f3bbac3bb80c1716ad9ae",
             "rarity": "Rare",
             "originalTpl": "57dc2fa62459775949412633",
             "name": "weapon_izhmash_aks74u_545x39",
@@ -3335,7 +3213,7 @@
                 "CenterOfImpact": 0.07,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.44,
-                "Velocity": -71.6,
+                "Velocity": 4,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -1,
                     "y": 1,
@@ -3358,12 +3236,12 @@
                 "SingleFireRate": 563,
                 "bFirerate": 813
             },
-            "templateId": "675e6373c2589507d4422b23"
+            "templateId": "675f3bba33ec71fa9e85e2e4"
         }
     },
     "5ac66d9b5acfc4001633997a": {
         "Legendary": {
-            "tpl": "675e63734a2b810c1d3dd605",
+            "tpl": "675f3bbad425d51ebdf3dace",
             "rarity": "Legendary",
             "originalTpl": "5ac66d9b5acfc4001633997a",
             "name": "weapon_izhmash_ak105_545x39",
@@ -3400,10 +3278,10 @@
                 "SingleFireRate": 765,
                 "bFirerate": 1020
             },
-            "templateId": "675e6373441478a8561b6626"
+            "templateId": "675f3bbaacc67e4cc4ac382e"
         },
         "Epic": {
-            "tpl": "675e63739a6606040c9bfd2a",
+            "tpl": "675f3bba498ee9597aa6b1b5",
             "rarity": "Epic",
             "originalTpl": "5ac66d9b5acfc4001633997a",
             "name": "weapon_izhmash_ak105_545x39",
@@ -3440,10 +3318,10 @@
                 "SingleFireRate": 675,
                 "bFirerate": 900
             },
-            "templateId": "675e63739a511f4795a8e091"
+            "templateId": "675f3bbaf4446e17da2fc042"
         },
         "Rare": {
-            "tpl": "675e637362e20247c22b8d5d",
+            "tpl": "675f3bba0e429cc865bd0ad4",
             "rarity": "Rare",
             "originalTpl": "5ac66d9b5acfc4001633997a",
             "name": "weapon_izhmash_ak105_545x39",
@@ -3480,134 +3358,12 @@
                 "SingleFireRate": 563,
                 "bFirerate": 750
             },
-            "templateId": "675e6373575878c3025e5875"
-        }
-    },
-    "57c44b372459772d2b39b8ce": {
-        "Legendary": {
-            "tpl": "675e637396b9a2d85fc98b88",
-            "rarity": "Legendary",
-            "originalTpl": "57c44b372459772d2b39b8ce",
-            "name": "weapon_tochmash_val_9x39",
-            "parentId": "5447b5fc4bdc2d87278b4567",
-            "overrides": {
-                "BackgroundColor": "tracerRed",
-                "AllowMisfire": false,
-                "AllowJam": false,
-                "AllowOverheat": false,
-                "CanSellOnRagfair": false,
-                "CenterOfImpact": 0.02,
-                "IsUnbuyable": true,
-                "DurabilityBurnRatio": 1.95,
-                "Velocity": 0,
-                "PostRecoilHorizontalRangeHandRotation": {
-                    "x": -0.3,
-                    "y": 0.3,
-                    "z": 0
-                },
-                "PostRecoilVerticalRangeHandRotation": {
-                    "x": -0.3,
-                    "y": 0,
-                    "z": 0
-                },
-                "Ergonomics": 73,
-                "InsuranceDisabled": true,
-                "LootExperience": 450,
-                "BaseMalfunctionChance": 0,
-                "RecoilForceBack": 54,
-                "RecoilForceUp": 16,
-                "Weight": 0.1,
-                "CameraSnap": 0.3,
-                "RepairCost": 1600,
-                "SingleFireRate": 765,
-                "bFirerate": 1530
-            },
-            "templateId": "675e6373238433075cb91aaa"
-        },
-        "Epic": {
-            "tpl": "675e637338ec5f81140fbb51",
-            "rarity": "Epic",
-            "originalTpl": "57c44b372459772d2b39b8ce",
-            "name": "weapon_tochmash_val_9x39",
-            "parentId": "5447b5fc4bdc2d87278b4567",
-            "overrides": {
-                "BackgroundColor": "tracerYellow",
-                "AllowMisfire": false,
-                "AllowJam": false,
-                "AllowOverheat": false,
-                "CanSellOnRagfair": false,
-                "CenterOfImpact": 0.05,
-                "IsUnbuyable": true,
-                "DurabilityBurnRatio": 1.73,
-                "Velocity": 0,
-                "PostRecoilHorizontalRangeHandRotation": {
-                    "x": -0.8,
-                    "y": 0.8,
-                    "z": 0
-                },
-                "PostRecoilVerticalRangeHandRotation": {
-                    "x": -0.7,
-                    "y": 0,
-                    "z": 0
-                },
-                "Ergonomics": 65,
-                "InsuranceDisabled": true,
-                "LootExperience": 200,
-                "BaseMalfunctionChance": 0,
-                "RecoilForceBack": 135,
-                "RecoilForceUp": 40,
-                "Weight": 0.3,
-                "CameraSnap": 0.9,
-                "RepairCost": 1200,
-                "SingleFireRate": 675,
-                "bFirerate": 1350
-            },
-            "templateId": "675e6373c25a120f322e99f3"
-        },
-        "Rare": {
-            "tpl": "675e6373a9a0b8d42f4daa2b",
-            "rarity": "Rare",
-            "originalTpl": "57c44b372459772d2b39b8ce",
-            "name": "weapon_tochmash_val_9x39",
-            "parentId": "5447b5fc4bdc2d87278b4567",
-            "overrides": {
-                "BackgroundColor": "tracerGreen",
-                "AllowMisfire": false,
-                "AllowJam": false,
-                "AllowOverheat": false,
-                "CanSellOnRagfair": false,
-                "CenterOfImpact": 0.07,
-                "IsUnbuyable": true,
-                "DurabilityBurnRatio": 1.44,
-                "Velocity": 0,
-                "PostRecoilHorizontalRangeHandRotation": {
-                    "x": -1,
-                    "y": 1,
-                    "z": 0
-                },
-                "PostRecoilVerticalRangeHandRotation": {
-                    "x": -1,
-                    "y": 0,
-                    "z": 0
-                },
-                "Ergonomics": 54,
-                "InsuranceDisabled": true,
-                "LootExperience": 100,
-                "BaseMalfunctionChance": 0,
-                "RecoilForceBack": 189,
-                "RecoilForceUp": 56,
-                "Weight": 0.5,
-                "CameraSnap": 1.5,
-                "RepairCost": 400,
-                "SingleFireRate": 563,
-                "bFirerate": 1125
-            },
-            "templateId": "675e63730b9944dc6072bc41"
+            "templateId": "675f3bbaccf47b84ea75e6ee"
         }
     },
     "5839a40f24597726f856b511": {
         "Legendary": {
-            "tpl": "675e63735844f8b5256ebd58",
+            "tpl": "675f3bbac719e597832cbd00",
             "rarity": "Legendary",
             "originalTpl": "5839a40f24597726f856b511",
             "name": "weapon_izhmash_aks74ub_545x39",
@@ -3621,7 +3377,7 @@
                 "CenterOfImpact": 0.02,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.95,
-                "Velocity": -161.1,
+                "Velocity": 9,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.3,
                     "y": 0.3,
@@ -3644,10 +3400,10 @@
                 "SingleFireRate": 765,
                 "bFirerate": 1105
             },
-            "templateId": "675e6373ec95d2279ce57a32"
+            "templateId": "675f3bbaa9b836cb170a92c2"
         },
         "Epic": {
-            "tpl": "675e6373dedf088438efc918",
+            "tpl": "675f3bbac7eac6fbc7a990bb",
             "rarity": "Epic",
             "originalTpl": "5839a40f24597726f856b511",
             "name": "weapon_izhmash_aks74ub_545x39",
@@ -3661,7 +3417,7 @@
                 "CenterOfImpact": 0.05,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.73,
-                "Velocity": -125.3,
+                "Velocity": 7,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.8,
                     "y": 0.8,
@@ -3684,10 +3440,10 @@
                 "SingleFireRate": 675,
                 "bFirerate": 975
             },
-            "templateId": "675e63735852c3f5fdfbfaa6"
+            "templateId": "675f3bba52b79b5076e4ddc1"
         },
         "Rare": {
-            "tpl": "675e63735375ffbb399c0e7a",
+            "tpl": "675f3bba3aa1883b79419791",
             "rarity": "Rare",
             "originalTpl": "5839a40f24597726f856b511",
             "name": "weapon_izhmash_aks74ub_545x39",
@@ -3701,7 +3457,7 @@
                 "CenterOfImpact": 0.07,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.44,
-                "Velocity": -71.6,
+                "Velocity": 4,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -1,
                     "y": 1,
@@ -3724,12 +3480,134 @@
                 "SingleFireRate": 563,
                 "bFirerate": 813
             },
-            "templateId": "675e6373d9041c95015bdbbd"
+            "templateId": "675f3bbadb518ad1d8945346"
+        }
+    },
+    "57c44b372459772d2b39b8ce": {
+        "Legendary": {
+            "tpl": "675f3bba439fcb425203eed6",
+            "rarity": "Legendary",
+            "originalTpl": "57c44b372459772d2b39b8ce",
+            "name": "weapon_tochmash_val_9x39",
+            "parentId": "5447b5fc4bdc2d87278b4567",
+            "overrides": {
+                "BackgroundColor": "tracerRed",
+                "AllowMisfire": false,
+                "AllowJam": false,
+                "AllowOverheat": false,
+                "CanSellOnRagfair": false,
+                "CenterOfImpact": 0.02,
+                "IsUnbuyable": true,
+                "DurabilityBurnRatio": 1.95,
+                "Velocity": 9,
+                "PostRecoilHorizontalRangeHandRotation": {
+                    "x": -0.3,
+                    "y": 0.3,
+                    "z": 0
+                },
+                "PostRecoilVerticalRangeHandRotation": {
+                    "x": -0.3,
+                    "y": 0,
+                    "z": 0
+                },
+                "Ergonomics": 73,
+                "InsuranceDisabled": true,
+                "LootExperience": 450,
+                "BaseMalfunctionChance": 0,
+                "RecoilForceBack": 54,
+                "RecoilForceUp": 16,
+                "Weight": 0.1,
+                "CameraSnap": 0.3,
+                "RepairCost": 1600,
+                "SingleFireRate": 765,
+                "bFirerate": 1530
+            },
+            "templateId": "675f3bba5b3e7848fb84fbb6"
+        },
+        "Epic": {
+            "tpl": "675f3bbadc9d6c29033da79a",
+            "rarity": "Epic",
+            "originalTpl": "57c44b372459772d2b39b8ce",
+            "name": "weapon_tochmash_val_9x39",
+            "parentId": "5447b5fc4bdc2d87278b4567",
+            "overrides": {
+                "BackgroundColor": "tracerYellow",
+                "AllowMisfire": false,
+                "AllowJam": false,
+                "AllowOverheat": false,
+                "CanSellOnRagfair": false,
+                "CenterOfImpact": 0.05,
+                "IsUnbuyable": true,
+                "DurabilityBurnRatio": 1.73,
+                "Velocity": 7,
+                "PostRecoilHorizontalRangeHandRotation": {
+                    "x": -0.8,
+                    "y": 0.8,
+                    "z": 0
+                },
+                "PostRecoilVerticalRangeHandRotation": {
+                    "x": -0.7,
+                    "y": 0,
+                    "z": 0
+                },
+                "Ergonomics": 65,
+                "InsuranceDisabled": true,
+                "LootExperience": 200,
+                "BaseMalfunctionChance": 0,
+                "RecoilForceBack": 135,
+                "RecoilForceUp": 40,
+                "Weight": 0.3,
+                "CameraSnap": 0.9,
+                "RepairCost": 1200,
+                "SingleFireRate": 675,
+                "bFirerate": 1350
+            },
+            "templateId": "675f3bba3b928bdcea2c6beb"
+        },
+        "Rare": {
+            "tpl": "675f3bba445ce5d3e36545d3",
+            "rarity": "Rare",
+            "originalTpl": "57c44b372459772d2b39b8ce",
+            "name": "weapon_tochmash_val_9x39",
+            "parentId": "5447b5fc4bdc2d87278b4567",
+            "overrides": {
+                "BackgroundColor": "tracerGreen",
+                "AllowMisfire": false,
+                "AllowJam": false,
+                "AllowOverheat": false,
+                "CanSellOnRagfair": false,
+                "CenterOfImpact": 0.07,
+                "IsUnbuyable": true,
+                "DurabilityBurnRatio": 1.44,
+                "Velocity": 4,
+                "PostRecoilHorizontalRangeHandRotation": {
+                    "x": -1,
+                    "y": 1,
+                    "z": 0
+                },
+                "PostRecoilVerticalRangeHandRotation": {
+                    "x": -1,
+                    "y": 0,
+                    "z": 0
+                },
+                "Ergonomics": 54,
+                "InsuranceDisabled": true,
+                "LootExperience": 100,
+                "BaseMalfunctionChance": 0,
+                "RecoilForceBack": 189,
+                "RecoilForceUp": 56,
+                "Weight": 0.5,
+                "CameraSnap": 1.5,
+                "RepairCost": 400,
+                "SingleFireRate": 563,
+                "bFirerate": 1125
+            },
+            "templateId": "675f3bba749686cc432362cd"
         }
     },
     "55801eed4bdc2d89578b4588": {
         "Legendary": {
-            "tpl": "675e6373917e060d6b712992",
+            "tpl": "675f3bba2789019da7d9d464",
             "rarity": "Legendary",
             "originalTpl": "55801eed4bdc2d89578b4588",
             "name": "weapon_izhmash_sv-98_762x54r",
@@ -3764,10 +3642,10 @@
                 "CameraSnap": 0.4,
                 "RepairCost": 1600
             },
-            "templateId": "675e6373c69d05e2e84f64ad"
+            "templateId": "675f3bba396cdd6913c92942"
         },
         "Epic": {
-            "tpl": "675e637393c2fd3afffb7b3a",
+            "tpl": "675f3bba0dbd7b7c52b872b8",
             "rarity": "Epic",
             "originalTpl": "55801eed4bdc2d89578b4588",
             "name": "weapon_izhmash_sv-98_762x54r",
@@ -3802,10 +3680,10 @@
                 "CameraSnap": 1.1,
                 "RepairCost": 1200
             },
-            "templateId": "675e6373690cb819794d86f0"
+            "templateId": "675f3bba659042ff56ee799d"
         },
         "Rare": {
-            "tpl": "675e6373138de30054fbe289",
+            "tpl": "675f3bbae4b3ecdea032c148",
             "rarity": "Rare",
             "originalTpl": "55801eed4bdc2d89578b4588",
             "name": "weapon_izhmash_sv-98_762x54r",
@@ -3840,12 +3718,12 @@
                 "CameraSnap": 1.8,
                 "RepairCost": 400
             },
-            "templateId": "675e63732e5c11c4e7c23bdc"
+            "templateId": "675f3bba673227362f9272c2"
         }
     },
     "5ae08f0a5acfc408fb1398a1": {
         "Legendary": {
-            "tpl": "675e63737e8fc3dec98ae562",
+            "tpl": "675f3bba59f82854c3b7dff0",
             "rarity": "Legendary",
             "originalTpl": "5ae08f0a5acfc408fb1398a1",
             "name": "weapon_izhmash_mosin_rifle_762x54",
@@ -3880,10 +3758,10 @@
                 "CameraSnap": 0.4,
                 "RepairCost": 1600
             },
-            "templateId": "675e637379d8598bdc644655"
+            "templateId": "675f3bba9e8a1f63d3c939be"
         },
         "Epic": {
-            "tpl": "675e63735b63a94892b66ff8",
+            "tpl": "675f3bba9c37b54d141cb5ff",
             "rarity": "Epic",
             "originalTpl": "5ae08f0a5acfc408fb1398a1",
             "name": "weapon_izhmash_mosin_rifle_762x54",
@@ -3918,10 +3796,10 @@
                 "CameraSnap": 1.1,
                 "RepairCost": 1200
             },
-            "templateId": "675e6373334837f3c4aca34c"
+            "templateId": "675f3bba3038b4595213a6bc"
         },
         "Rare": {
-            "tpl": "675e637332b1143a8157947a",
+            "tpl": "675f3bba78d08852a766c945",
             "rarity": "Rare",
             "originalTpl": "5ae08f0a5acfc408fb1398a1",
             "name": "weapon_izhmash_mosin_rifle_762x54",
@@ -3956,12 +3834,12 @@
                 "CameraSnap": 1.8,
                 "RepairCost": 400
             },
-            "templateId": "675e63736d88771ea7887919"
+            "templateId": "675f3bba5ccf07e873441843"
         }
     },
     "574d967124597745970e7c94": {
         "Legendary": {
-            "tpl": "675e637374cf59db1164b154",
+            "tpl": "675f3bba4cd38dad2efa3d74",
             "rarity": "Legendary",
             "originalTpl": "574d967124597745970e7c94",
             "name": "weapon_toz_sks_762x39",
@@ -3975,7 +3853,7 @@
                 "CenterOfImpact": 0.01,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.95,
-                "Velocity": 0,
+                "Velocity": 9,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.3,
                     "y": 0.3,
@@ -3996,10 +3874,10 @@
                 "CameraSnap": 0.4,
                 "RepairCost": 1600
             },
-            "templateId": "675e637369be8e03700019aa"
+            "templateId": "675f3bba477af044d53d947f"
         },
         "Epic": {
-            "tpl": "675e63733f9251f18e035c10",
+            "tpl": "675f3bba224df8ba0311c26e",
             "rarity": "Epic",
             "originalTpl": "574d967124597745970e7c94",
             "name": "weapon_toz_sks_762x39",
@@ -4013,7 +3891,7 @@
                 "CenterOfImpact": 0.03,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.73,
-                "Velocity": 0,
+                "Velocity": 7,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.8,
                     "y": 0.8,
@@ -4034,10 +3912,10 @@
                 "CameraSnap": 1.1,
                 "RepairCost": 1200
             },
-            "templateId": "675e63738a969e4a6b6d1978"
+            "templateId": "675f3bba6fbeefebdb8941ee"
         },
         "Rare": {
-            "tpl": "675e6373ad27adee9ce1da96",
+            "tpl": "675f3bbafb4a52c6e8d6f49f",
             "rarity": "Rare",
             "originalTpl": "574d967124597745970e7c94",
             "name": "weapon_toz_sks_762x39",
@@ -4051,7 +3929,7 @@
                 "CenterOfImpact": 0.03,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.44,
-                "Velocity": 0,
+                "Velocity": 4,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -1,
                     "y": 1,
@@ -4072,12 +3950,256 @@
                 "CameraSnap": 1.8,
                 "RepairCost": 400
             },
-            "templateId": "675e6373e482c112f6ab520f"
+            "templateId": "675f3bba1236317a87d44c0d"
+        }
+    },
+    "5447a9cd4bdc2dbd208b4567": {
+        "Legendary": {
+            "tpl": "675f3bbaf87bde88c729c765",
+            "rarity": "Legendary",
+            "originalTpl": "5447a9cd4bdc2dbd208b4567",
+            "name": "weapon_colt_m4a1_556x45",
+            "parentId": "5447b5f14bdc2d61278b4567",
+            "overrides": {
+                "BackgroundColor": "tracerRed",
+                "AllowMisfire": false,
+                "AllowJam": false,
+                "AllowOverheat": false,
+                "CanSellOnRagfair": false,
+                "CenterOfImpact": 0,
+                "IsUnbuyable": true,
+                "DurabilityBurnRatio": 1.95,
+                "Velocity": 9,
+                "PostRecoilHorizontalRangeHandRotation": {
+                    "x": -0.3,
+                    "y": 0.3,
+                    "z": 0
+                },
+                "PostRecoilVerticalRangeHandRotation": {
+                    "x": -0.3,
+                    "y": 0,
+                    "z": 0
+                },
+                "Ergonomics": 82,
+                "InsuranceDisabled": true,
+                "LootExperience": 450,
+                "BaseMalfunctionChance": 0,
+                "RecoilForceBack": 68,
+                "RecoilForceUp": 24,
+                "Weight": 0,
+                "CameraSnap": 0.4,
+                "RepairCost": 1600,
+                "SingleFireRate": 765,
+                "bFirerate": 1360
+            },
+            "templateId": "675f3bba05897d993b0846da"
+        },
+        "Epic": {
+            "tpl": "675f3bbae2b758147e566f27",
+            "rarity": "Epic",
+            "originalTpl": "5447a9cd4bdc2dbd208b4567",
+            "name": "weapon_colt_m4a1_556x45",
+            "parentId": "5447b5f14bdc2d61278b4567",
+            "overrides": {
+                "BackgroundColor": "tracerYellow",
+                "AllowMisfire": false,
+                "AllowJam": false,
+                "AllowOverheat": false,
+                "CanSellOnRagfair": false,
+                "CenterOfImpact": 0.01,
+                "IsUnbuyable": true,
+                "DurabilityBurnRatio": 1.73,
+                "Velocity": 7,
+                "PostRecoilHorizontalRangeHandRotation": {
+                    "x": -0.8,
+                    "y": 0.8,
+                    "z": 0
+                },
+                "PostRecoilVerticalRangeHandRotation": {
+                    "x": -0.7,
+                    "y": 0,
+                    "z": 0
+                },
+                "Ergonomics": 72,
+                "InsuranceDisabled": true,
+                "LootExperience": 200,
+                "BaseMalfunctionChance": 0,
+                "RecoilForceBack": 171,
+                "RecoilForceUp": 60,
+                "Weight": 0.1,
+                "CameraSnap": 1.1,
+                "RepairCost": 1200,
+                "SingleFireRate": 675,
+                "bFirerate": 1200
+            },
+            "templateId": "675f3bba4a75ecdfb630ba85"
+        },
+        "Rare": {
+            "tpl": "675f3bba9d6e2c64d5c3a18e",
+            "rarity": "Rare",
+            "originalTpl": "5447a9cd4bdc2dbd208b4567",
+            "name": "weapon_colt_m4a1_556x45",
+            "parentId": "5447b5f14bdc2d61278b4567",
+            "overrides": {
+                "BackgroundColor": "tracerGreen",
+                "AllowMisfire": false,
+                "AllowJam": false,
+                "AllowOverheat": false,
+                "CanSellOnRagfair": false,
+                "CenterOfImpact": 0.01,
+                "IsUnbuyable": true,
+                "DurabilityBurnRatio": 1.44,
+                "Velocity": 4,
+                "PostRecoilHorizontalRangeHandRotation": {
+                    "x": -1,
+                    "y": 1,
+                    "z": 0
+                },
+                "PostRecoilVerticalRangeHandRotation": {
+                    "x": -1,
+                    "y": 0,
+                    "z": 0
+                },
+                "Ergonomics": 60,
+                "InsuranceDisabled": true,
+                "LootExperience": 100,
+                "BaseMalfunctionChance": 0,
+                "RecoilForceBack": 239,
+                "RecoilForceUp": 83,
+                "Weight": 0.2,
+                "CameraSnap": 1.8,
+                "RepairCost": 400,
+                "SingleFireRate": 563,
+                "bFirerate": 1000
+            },
+            "templateId": "675f3bba603a4544363dbd3f"
+        }
+    },
+    "59d6088586f774275f37482f": {
+        "Legendary": {
+            "tpl": "675f3bbaa0b81af3dc6d71f9",
+            "rarity": "Legendary",
+            "originalTpl": "59d6088586f774275f37482f",
+            "name": "weapon_izhmash_akm_762x39",
+            "parentId": "5447b5f14bdc2d61278b4567",
+            "overrides": {
+                "BackgroundColor": "tracerRed",
+                "AllowMisfire": false,
+                "AllowJam": false,
+                "AllowOverheat": false,
+                "CanSellOnRagfair": false,
+                "CenterOfImpact": 0.01,
+                "IsUnbuyable": true,
+                "DurabilityBurnRatio": 1.95,
+                "Velocity": 16.2,
+                "PostRecoilHorizontalRangeHandRotation": {
+                    "x": -0.3,
+                    "y": 0.3,
+                    "z": 0
+                },
+                "PostRecoilVerticalRangeHandRotation": {
+                    "x": -0.3,
+                    "y": 0,
+                    "z": 0
+                },
+                "Ergonomics": 44,
+                "InsuranceDisabled": true,
+                "LootExperience": 450,
+                "BaseMalfunctionChance": 0,
+                "RecoilForceBack": 76,
+                "RecoilForceUp": 30,
+                "Weight": 0.2,
+                "CameraSnap": 0.4,
+                "RepairCost": 1600,
+                "SingleFireRate": 765,
+                "bFirerate": 1020
+            },
+            "templateId": "675f3bba1773098c5f07198c"
+        },
+        "Epic": {
+            "tpl": "675f3bba9cba06e4a21400af",
+            "rarity": "Epic",
+            "originalTpl": "59d6088586f774275f37482f",
+            "name": "weapon_izhmash_akm_762x39",
+            "parentId": "5447b5f14bdc2d61278b4567",
+            "overrides": {
+                "BackgroundColor": "tracerYellow",
+                "AllowMisfire": false,
+                "AllowJam": false,
+                "AllowOverheat": false,
+                "CanSellOnRagfair": false,
+                "CenterOfImpact": 0.03,
+                "IsUnbuyable": true,
+                "DurabilityBurnRatio": 1.73,
+                "Velocity": 12.6,
+                "PostRecoilHorizontalRangeHandRotation": {
+                    "x": -0.8,
+                    "y": 0.8,
+                    "z": 0
+                },
+                "PostRecoilVerticalRangeHandRotation": {
+                    "x": -0.7,
+                    "y": 0,
+                    "z": 0
+                },
+                "Ergonomics": 39,
+                "InsuranceDisabled": true,
+                "LootExperience": 200,
+                "BaseMalfunctionChance": 0,
+                "RecoilForceBack": 189,
+                "RecoilForceUp": 75,
+                "Weight": 0.6,
+                "CameraSnap": 1.1,
+                "RepairCost": 1200,
+                "SingleFireRate": 675,
+                "bFirerate": 900
+            },
+            "templateId": "675f3bba09471861e52acfa6"
+        },
+        "Rare": {
+            "tpl": "675f3bba52ec4140b1ea2830",
+            "rarity": "Rare",
+            "originalTpl": "59d6088586f774275f37482f",
+            "name": "weapon_izhmash_akm_762x39",
+            "parentId": "5447b5f14bdc2d61278b4567",
+            "overrides": {
+                "BackgroundColor": "tracerGreen",
+                "AllowMisfire": false,
+                "AllowJam": false,
+                "AllowOverheat": false,
+                "CanSellOnRagfair": false,
+                "CenterOfImpact": 0.05,
+                "IsUnbuyable": true,
+                "DurabilityBurnRatio": 1.44,
+                "Velocity": 7.2,
+                "PostRecoilHorizontalRangeHandRotation": {
+                    "x": -1,
+                    "y": 1,
+                    "z": 0
+                },
+                "PostRecoilVerticalRangeHandRotation": {
+                    "x": -1,
+                    "y": 0,
+                    "z": 0
+                },
+                "Ergonomics": 33,
+                "InsuranceDisabled": true,
+                "LootExperience": 100,
+                "BaseMalfunctionChance": 0,
+                "RecoilForceBack": 265,
+                "RecoilForceUp": 104,
+                "Weight": 1,
+                "CameraSnap": 1.8,
+                "RepairCost": 400,
+                "SingleFireRate": 563,
+                "bFirerate": 750
+            },
+            "templateId": "675f3bbacb6d990f5a66a6b1"
         }
     },
     "5b3b713c5acfc4330140bd8d": {
         "Legendary": {
-            "tpl": "675e6373a86af83c228aa814",
+            "tpl": "675f3bbabfa4652bd75ce050",
             "rarity": "Legendary",
             "originalTpl": "5b3b713c5acfc4330140bd8d",
             "name": "weapon_toz_tt_762x25tt_gold",
@@ -4091,7 +4213,7 @@
                 "CenterOfImpact": 0,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.95,
-                "Velocity": 0,
+                "Velocity": 9,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.4,
                     "y": 0.4,
@@ -4112,10 +4234,10 @@
                 "CameraSnap": 0.5,
                 "RepairCost": 1600
             },
-            "templateId": "675e6373d121bb047d90c6e4"
+            "templateId": "675f3bba7b4af9a4dc670908"
         },
         "Epic": {
-            "tpl": "675e6373d5ee93b86686912f",
+            "tpl": "675f3bbaf710ab01813fca51",
             "rarity": "Epic",
             "originalTpl": "5b3b713c5acfc4330140bd8d",
             "name": "weapon_toz_tt_762x25tt_gold",
@@ -4129,7 +4251,7 @@
                 "CenterOfImpact": 0,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.73,
-                "Velocity": 0,
+                "Velocity": 7,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -1,
                     "y": 1,
@@ -4150,10 +4272,10 @@
                 "CameraSnap": 1.5,
                 "RepairCost": 1200
             },
-            "templateId": "675e6373980e4ebb870fe439"
+            "templateId": "675f3bbae7d57c3802875a76"
         },
         "Rare": {
-            "tpl": "675e6373daa375d9d4f89059",
+            "tpl": "675f3bba8218b2566b5c159f",
             "rarity": "Rare",
             "originalTpl": "5b3b713c5acfc4330140bd8d",
             "name": "weapon_toz_tt_762x25tt_gold",
@@ -4167,7 +4289,7 @@
                 "CenterOfImpact": 0,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.44,
-                "Velocity": 0,
+                "Velocity": 4,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -1.4,
                     "y": 1.4,
@@ -4188,12 +4310,12 @@
                 "CameraSnap": 2.5,
                 "RepairCost": 400
             },
-            "templateId": "675e6373743a86ab3c82299e"
+            "templateId": "675f3bba5a3266d5616e53e6"
         }
     },
     "5a17f98cfcdbcb0980087290": {
         "Legendary": {
-            "tpl": "675e63738e971c602913530c",
+            "tpl": "675f3bba680ed58ea07aaedc",
             "rarity": "Legendary",
             "originalTpl": "5a17f98cfcdbcb0980087290",
             "name": "weapon_molot_aps_9x18pm",
@@ -4207,7 +4329,7 @@
                 "CenterOfImpact": 0.06,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.95,
-                "Velocity": -40.86,
+                "Velocity": 9,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.4,
                     "y": 0.4,
@@ -4230,10 +4352,10 @@
                 "SingleFireRate": 765,
                 "bFirerate": 1275
             },
-            "templateId": "675e6373a1f10a4c4662b713"
+            "templateId": "675f3bba270832b24b068c47"
         },
         "Epic": {
-            "tpl": "675e6373e7160d43682119fd",
+            "tpl": "675f3bba7c2f9b95b5fbd85c",
             "rarity": "Epic",
             "originalTpl": "5a17f98cfcdbcb0980087290",
             "name": "weapon_molot_aps_9x18pm",
@@ -4247,7 +4369,7 @@
                 "CenterOfImpact": 0.15,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.73,
-                "Velocity": -31.78,
+                "Velocity": 7,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -1,
                     "y": 1,
@@ -4270,10 +4392,10 @@
                 "SingleFireRate": 675,
                 "bFirerate": 1125
             },
-            "templateId": "675e63738802f7ca495060a8"
+            "templateId": "675f3bbabe2b17d57f13db31"
         },
         "Rare": {
-            "tpl": "675e63736aaca9633a592de8",
+            "tpl": "675f3bbaaab0c5fd9bce4e5d",
             "rarity": "Rare",
             "originalTpl": "5a17f98cfcdbcb0980087290",
             "name": "weapon_molot_aps_9x18pm",
@@ -4287,7 +4409,7 @@
                 "CenterOfImpact": 0.21,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.44,
-                "Velocity": -18.16,
+                "Velocity": 4,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -1.4,
                     "y": 1.4,
@@ -4310,12 +4432,12 @@
                 "SingleFireRate": 563,
                 "bFirerate": 938
             },
-            "templateId": "675e63732fcdda5c222eca88"
+            "templateId": "675f3bbadba9fd176d379d43"
         }
     },
     "5e81c3cbac2bb513793cdc75": {
         "Legendary": {
-            "tpl": "675e637392205cb506ab9a9f",
+            "tpl": "675f3bbad749c0cd3d2386b2",
             "rarity": "Legendary",
             "originalTpl": "5e81c3cbac2bb513793cdc75",
             "name": "weapon_colt_m1911a1_1143x23",
@@ -4329,7 +4451,7 @@
                 "CenterOfImpact": 0,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.95,
-                "Velocity": 0,
+                "Velocity": 9,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.4,
                     "y": 0.4,
@@ -4350,10 +4472,10 @@
                 "CameraSnap": 0.5,
                 "RepairCost": 1600
             },
-            "templateId": "675e637300e8786e2b5434c1"
+            "templateId": "675f3bba28dd6dac254c91f4"
         },
         "Epic": {
-            "tpl": "675e6373cbdd4a78f3bf921b",
+            "tpl": "675f3bba44102a9350c1bade",
             "rarity": "Epic",
             "originalTpl": "5e81c3cbac2bb513793cdc75",
             "name": "weapon_colt_m1911a1_1143x23",
@@ -4367,7 +4489,7 @@
                 "CenterOfImpact": 0,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.73,
-                "Velocity": 0,
+                "Velocity": 7,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -1,
                     "y": 1,
@@ -4388,10 +4510,10 @@
                 "CameraSnap": 1.5,
                 "RepairCost": 1200
             },
-            "templateId": "675e6373e4245e37821a9f47"
+            "templateId": "675f3bba98b56f7f80b92acf"
         },
         "Rare": {
-            "tpl": "675e637343f19a3b1e9da44d",
+            "tpl": "675f3bba9e8b687854318c62",
             "rarity": "Rare",
             "originalTpl": "5e81c3cbac2bb513793cdc75",
             "name": "weapon_colt_m1911a1_1143x23",
@@ -4405,7 +4527,7 @@
                 "CenterOfImpact": 0,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.44,
-                "Velocity": 0,
+                "Velocity": 4,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -1.4,
                     "y": 1.4,
@@ -4426,12 +4548,12 @@
                 "CameraSnap": 2.5,
                 "RepairCost": 400
             },
-            "templateId": "675e6373e5a30b6042728ff7"
+            "templateId": "675f3bba28de552a892fd34f"
         }
     },
     "571a12c42459771f627b58a0": {
         "Legendary": {
-            "tpl": "675e6373a79daa27dc98f550",
+            "tpl": "675f3bba2ce0e4a40845d25f",
             "rarity": "Legendary",
             "originalTpl": "571a12c42459771f627b58a0",
             "name": "weapon_toz_tt_762x25tt",
@@ -4445,7 +4567,7 @@
                 "CenterOfImpact": 0,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.95,
-                "Velocity": 0,
+                "Velocity": 9,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.4,
                     "y": 0.4,
@@ -4466,10 +4588,10 @@
                 "CameraSnap": 0.5,
                 "RepairCost": 1600
             },
-            "templateId": "675e6373e0a3464f72c5fc29"
+            "templateId": "675f3bba9d22f2595082426f"
         },
         "Epic": {
-            "tpl": "675e6373b226997dccd6faf3",
+            "tpl": "675f3bbaa5e0f1ce04055914",
             "rarity": "Epic",
             "originalTpl": "571a12c42459771f627b58a0",
             "name": "weapon_toz_tt_762x25tt",
@@ -4483,7 +4605,7 @@
                 "CenterOfImpact": 0,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.73,
-                "Velocity": 0,
+                "Velocity": 7,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -1,
                     "y": 1,
@@ -4504,10 +4626,10 @@
                 "CameraSnap": 1.5,
                 "RepairCost": 1200
             },
-            "templateId": "675e637380fb3a93c70dbc6c"
+            "templateId": "675f3bbadd534f4fe1de397f"
         },
         "Rare": {
-            "tpl": "675e63734aaec92acaffc42c",
+            "tpl": "675f3bba280ea054cfde190e",
             "rarity": "Rare",
             "originalTpl": "571a12c42459771f627b58a0",
             "name": "weapon_toz_tt_762x25tt",
@@ -4521,7 +4643,7 @@
                 "CenterOfImpact": 0,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.44,
-                "Velocity": 0,
+                "Velocity": 4,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -1.4,
                     "y": 1.4,
@@ -4542,12 +4664,12 @@
                 "CameraSnap": 2.5,
                 "RepairCost": 400
             },
-            "templateId": "675e6373949861ab434ea8a1"
+            "templateId": "675f3bbaaa15248064e6a4ee"
         }
     },
     "668fe5a998b5ad715703ddd6": {
         "Legendary": {
-            "tpl": "675e6373bd499fc8bb6ae684",
+            "tpl": "675f3bba9802b319522f2f9d",
             "rarity": "Legendary",
             "originalTpl": "668fe5a998b5ad715703ddd6",
             "name": "weapon_magnum_research_desert_eagle_mk19_127x33",
@@ -4561,7 +4683,7 @@
                 "CenterOfImpact": 0,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.95,
-                "Velocity": 0,
+                "Velocity": 9,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.4,
                     "y": 0.4,
@@ -4582,10 +4704,10 @@
                 "CameraSnap": 0.1,
                 "RepairCost": 1600
             },
-            "templateId": "675e63730c08674277b4a1c9"
+            "templateId": "675f3bbab35214376a41ca0c"
         },
         "Epic": {
-            "tpl": "675e6373389732e0d2a919ce",
+            "tpl": "675f3bba1c4ae1a7e31862d4",
             "rarity": "Epic",
             "originalTpl": "668fe5a998b5ad715703ddd6",
             "name": "weapon_magnum_research_desert_eagle_mk19_127x33",
@@ -4599,7 +4721,7 @@
                 "CenterOfImpact": 0,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.73,
-                "Velocity": 0,
+                "Velocity": 7,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -1,
                     "y": 1,
@@ -4620,10 +4742,10 @@
                 "CameraSnap": 0.3,
                 "RepairCost": 1200
             },
-            "templateId": "675e6373e65378d3ecba65da"
+            "templateId": "675f3bba26d3804328cdece9"
         },
         "Rare": {
-            "tpl": "675e637311d83f8fe827da65",
+            "tpl": "675f3bba6349e35a602c1e6c",
             "rarity": "Rare",
             "originalTpl": "668fe5a998b5ad715703ddd6",
             "name": "weapon_magnum_research_desert_eagle_mk19_127x33",
@@ -4637,7 +4759,7 @@
                 "CenterOfImpact": 0,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.44,
-                "Velocity": 0,
+                "Velocity": 4,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -1.4,
                     "y": 1.4,
@@ -4658,12 +4780,12 @@
                 "CameraSnap": 0.5,
                 "RepairCost": 400
             },
-            "templateId": "675e637366676fef571e3738"
+            "templateId": "675f3bbaefd21122672a8fe7"
         }
     },
     "669fa3d876116c89840b1217": {
         "Legendary": {
-            "tpl": "675e637366d75662dc4ed8a4",
+            "tpl": "675f3bba95f532b0662ff86c",
             "rarity": "Legendary",
             "originalTpl": "669fa3d876116c89840b1217",
             "name": "weapon_magnum_research_desert_eagle_l6_tiger_127x33",
@@ -4677,7 +4799,7 @@
                 "CenterOfImpact": 0,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.95,
-                "Velocity": 0,
+                "Velocity": 9,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.4,
                     "y": 0.4,
@@ -4698,10 +4820,10 @@
                 "CameraSnap": 0.1,
                 "RepairCost": 1600
             },
-            "templateId": "675e63735a3ad36ebe09c4f5"
+            "templateId": "675f3bbaf75aac0280633ede"
         },
         "Epic": {
-            "tpl": "675e63737c5d03bf76c4aacd",
+            "tpl": "675f3bba39c5855ede43cef6",
             "rarity": "Epic",
             "originalTpl": "669fa3d876116c89840b1217",
             "name": "weapon_magnum_research_desert_eagle_l6_tiger_127x33",
@@ -4715,7 +4837,7 @@
                 "CenterOfImpact": 0,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.73,
-                "Velocity": 0,
+                "Velocity": 7,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -1,
                     "y": 1,
@@ -4736,10 +4858,10 @@
                 "CameraSnap": 0.3,
                 "RepairCost": 1200
             },
-            "templateId": "675e6373c2830cdf66525332"
+            "templateId": "675f3bbac279fad61a56afef"
         },
         "Rare": {
-            "tpl": "675e6373fade76b1de05c938",
+            "tpl": "675f3bbaa29c55dce4d57e87",
             "rarity": "Rare",
             "originalTpl": "669fa3d876116c89840b1217",
             "name": "weapon_magnum_research_desert_eagle_l6_tiger_127x33",
@@ -4753,7 +4875,7 @@
                 "CenterOfImpact": 0,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.44,
-                "Velocity": 0,
+                "Velocity": 4,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -1.4,
                     "y": 1.4,
@@ -4774,12 +4896,12 @@
                 "CameraSnap": 0.5,
                 "RepairCost": 400
             },
-            "templateId": "675e63739ddff4625a04ee50"
+            "templateId": "675f3bbab14fa100b0de1ee2"
         }
     },
     "5b1fa9b25acfc40018633c01": {
         "Legendary": {
-            "tpl": "675e6373205cb0f79e2715b9",
+            "tpl": "675f3bba9e3b32d0da315b5a",
             "rarity": "Legendary",
             "originalTpl": "5b1fa9b25acfc40018633c01",
             "name": "weapon_glock_glock_18c_gen3_9x19",
@@ -4793,7 +4915,7 @@
                 "CenterOfImpact": 0,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.95,
-                "Velocity": 0,
+                "Velocity": 9,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.4,
                     "y": 0.4,
@@ -4816,10 +4938,10 @@
                 "SingleFireRate": 765,
                 "bFirerate": 2040
             },
-            "templateId": "675e637375e0c330fd4dc195"
+            "templateId": "675f3bbadfcd6683b70d4376"
         },
         "Epic": {
-            "tpl": "675e6373afed8c1a2344b164",
+            "tpl": "675f3bba1673865676595e92",
             "rarity": "Epic",
             "originalTpl": "5b1fa9b25acfc40018633c01",
             "name": "weapon_glock_glock_18c_gen3_9x19",
@@ -4833,7 +4955,7 @@
                 "CenterOfImpact": 0,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.73,
-                "Velocity": 0,
+                "Velocity": 7,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -1,
                     "y": 1,
@@ -4856,10 +4978,10 @@
                 "SingleFireRate": 675,
                 "bFirerate": 1800
             },
-            "templateId": "675e6373d19e49e783f9723f"
+            "templateId": "675f3bba9eb152a2daab328d"
         },
         "Rare": {
-            "tpl": "675e6373c4fa328f769293c8",
+            "tpl": "675f3bbaf76703c3c4395195",
             "rarity": "Rare",
             "originalTpl": "5b1fa9b25acfc40018633c01",
             "name": "weapon_glock_glock_18c_gen3_9x19",
@@ -4873,7 +4995,7 @@
                 "CenterOfImpact": 0,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.44,
-                "Velocity": 0,
+                "Velocity": 4,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -1.4,
                     "y": 1.4,
@@ -4896,12 +5018,12 @@
                 "SingleFireRate": 563,
                 "bFirerate": 1500
             },
-            "templateId": "675e6373d71b32a8e433932a"
+            "templateId": "675f3bbad35b7da8cb63bfb7"
         }
     },
     "59f98b4986f7746f546d2cef": {
         "Legendary": {
-            "tpl": "675e6373dfc3a7c1b593a304",
+            "tpl": "675f3bba1f5f78883743253d",
             "rarity": "Legendary",
             "originalTpl": "59f98b4986f7746f546d2cef",
             "name": "weapon_tochmash_sr1mp_9x21",
@@ -4915,7 +5037,7 @@
                 "CenterOfImpact": 0.04,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.95,
-                "Velocity": 0.9,
+                "Velocity": 9,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.4,
                     "y": 0.4,
@@ -4936,10 +5058,10 @@
                 "CameraSnap": 0.5,
                 "RepairCost": 1600
             },
-            "templateId": "675e6373b020be2711531383"
+            "templateId": "675f3bbae03485e4de00e0dd"
         },
         "Epic": {
-            "tpl": "675e6373b0ca5e4d1a809f48",
+            "tpl": "675f3bba7f2d85e63ee8d35c",
             "rarity": "Epic",
             "originalTpl": "59f98b4986f7746f546d2cef",
             "name": "weapon_tochmash_sr1mp_9x21",
@@ -4953,7 +5075,7 @@
                 "CenterOfImpact": 0.11,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.73,
-                "Velocity": 0.7,
+                "Velocity": 7,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -1,
                     "y": 1,
@@ -4974,10 +5096,10 @@
                 "CameraSnap": 1.5,
                 "RepairCost": 1200
             },
-            "templateId": "675e6373e44e890fb6680805"
+            "templateId": "675f3bba4295e71abeada487"
         },
         "Rare": {
-            "tpl": "675e6373e51786e8923935b7",
+            "tpl": "675f3bba5578dea95b39903d",
             "rarity": "Rare",
             "originalTpl": "59f98b4986f7746f546d2cef",
             "name": "weapon_tochmash_sr1mp_9x21",
@@ -4991,7 +5113,7 @@
                 "CenterOfImpact": 0.15,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.44,
-                "Velocity": 0.4,
+                "Velocity": 4,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -1.4,
                     "y": 1.4,
@@ -5012,12 +5134,12 @@
                 "CameraSnap": 2.5,
                 "RepairCost": 400
             },
-            "templateId": "675e637385e77af92d8332f4"
+            "templateId": "675f3bba0a8728aeae0033ee"
         }
     },
     "5448bd6b4bdc2dfc2f8b4569": {
         "Legendary": {
-            "tpl": "675e63737005deea628f523d",
+            "tpl": "675f3bbaa84cdd10faffdd38",
             "rarity": "Legendary",
             "originalTpl": "5448bd6b4bdc2dfc2f8b4569",
             "name": "weapon_izhmeh_pm_9x18pm",
@@ -5031,7 +5153,7 @@
                 "CenterOfImpact": 0.08,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.95,
-                "Velocity": -40.86,
+                "Velocity": 9,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.4,
                     "y": 0.4,
@@ -5052,10 +5174,10 @@
                 "CameraSnap": 0.5,
                 "RepairCost": 1600
             },
-            "templateId": "675e6373d79a2a6d1b7bbd8c"
+            "templateId": "675f3bba71595769015e8eed"
         },
         "Epic": {
-            "tpl": "675e63738998ac3501d482cb",
+            "tpl": "675f3bbac8f43744b57e4b22",
             "rarity": "Epic",
             "originalTpl": "5448bd6b4bdc2dfc2f8b4569",
             "name": "weapon_izhmeh_pm_9x18pm",
@@ -5069,7 +5191,7 @@
                 "CenterOfImpact": 0.2,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.73,
-                "Velocity": -31.78,
+                "Velocity": 7,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -1,
                     "y": 1,
@@ -5090,10 +5212,10 @@
                 "CameraSnap": 1.5,
                 "RepairCost": 1200
             },
-            "templateId": "675e6373fa388a41c3a564ba"
+            "templateId": "675f3bba95647115e81a44da"
         },
         "Rare": {
-            "tpl": "675e6373624af73adf0604b5",
+            "tpl": "675f3bba1fb9fbebc5daa6fa",
             "rarity": "Rare",
             "originalTpl": "5448bd6b4bdc2dfc2f8b4569",
             "name": "weapon_izhmeh_pm_9x18pm",
@@ -5107,7 +5229,7 @@
                 "CenterOfImpact": 0.27,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.44,
-                "Velocity": -18.16,
+                "Velocity": 4,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -1.4,
                     "y": 1.4,
@@ -5128,12 +5250,244 @@
                 "CameraSnap": 2.5,
                 "RepairCost": 400
             },
-            "templateId": "675e63730c7a4407a0e9a8c8"
+            "templateId": "675f3bba56ea163a58d54bc4"
+        }
+    },
+    "624c2e8614da335f1e034d8c": {
+        "Legendary": {
+            "tpl": "675f3bba35c69404fff25861",
+            "rarity": "Legendary",
+            "originalTpl": "624c2e8614da335f1e034d8c",
+            "name": "weapon_chiappa_rhino_200ds_9x19",
+            "parentId": "617f1ef5e8b54b0998387733",
+            "overrides": {
+                "BackgroundColor": "tracerRed",
+                "AllowMisfire": false,
+                "AllowJam": false,
+                "AllowOverheat": false,
+                "CanSellOnRagfair": false,
+                "CenterOfImpact": 0.06,
+                "IsUnbuyable": true,
+                "DurabilityBurnRatio": 1.7,
+                "Velocity": 9,
+                "PostRecoilHorizontalRangeHandRotation": {
+                    "x": -0.4,
+                    "y": 0.4,
+                    "z": 0
+                },
+                "PostRecoilVerticalRangeHandRotation": {
+                    "x": -0.2,
+                    "y": 0,
+                    "z": 0
+                },
+                "Ergonomics": 162,
+                "InsuranceDisabled": true,
+                "LootExperience": 450,
+                "BaseMalfunctionChance": 0,
+                "RecoilForceBack": 40,
+                "RecoilForceUp": 61,
+                "Weight": 0.1,
+                "CameraSnap": 0.4,
+                "RepairCost": 1600
+            },
+            "templateId": "675f3bbaaa89af9536ecbca6"
+        },
+        "Epic": {
+            "tpl": "675f3bba84f53dfc66e63a03",
+            "rarity": "Epic",
+            "originalTpl": "624c2e8614da335f1e034d8c",
+            "name": "weapon_chiappa_rhino_200ds_9x19",
+            "parentId": "617f1ef5e8b54b0998387733",
+            "overrides": {
+                "BackgroundColor": "tracerYellow",
+                "AllowMisfire": false,
+                "AllowJam": false,
+                "AllowOverheat": false,
+                "CanSellOnRagfair": false,
+                "CenterOfImpact": 0.14,
+                "IsUnbuyable": true,
+                "DurabilityBurnRatio": 1.5,
+                "Velocity": 7,
+                "PostRecoilHorizontalRangeHandRotation": {
+                    "x": -0.9,
+                    "y": 0.9,
+                    "z": 0
+                },
+                "PostRecoilVerticalRangeHandRotation": {
+                    "x": -0.5,
+                    "y": 0,
+                    "z": 0
+                },
+                "Ergonomics": 143,
+                "InsuranceDisabled": true,
+                "LootExperience": 200,
+                "BaseMalfunctionChance": 0,
+                "RecoilForceBack": 100,
+                "RecoilForceUp": 153,
+                "Weight": 0.2,
+                "CameraSnap": 1.1,
+                "RepairCost": 1200
+            },
+            "templateId": "675f3bba0bdf6e3f2af4a8d4"
+        },
+        "Rare": {
+            "tpl": "675f3bba83591e1e792afc5e",
+            "rarity": "Rare",
+            "originalTpl": "624c2e8614da335f1e034d8c",
+            "name": "weapon_chiappa_rhino_200ds_9x19",
+            "parentId": "617f1ef5e8b54b0998387733",
+            "overrides": {
+                "BackgroundColor": "tracerGreen",
+                "AllowMisfire": false,
+                "AllowJam": false,
+                "AllowOverheat": false,
+                "CanSellOnRagfair": false,
+                "CenterOfImpact": 0.2,
+                "IsUnbuyable": true,
+                "DurabilityBurnRatio": 1.25,
+                "Velocity": 4,
+                "PostRecoilHorizontalRangeHandRotation": {
+                    "x": -1.3,
+                    "y": 1.3,
+                    "z": 0
+                },
+                "PostRecoilVerticalRangeHandRotation": {
+                    "x": -0.8,
+                    "y": 0,
+                    "z": 0
+                },
+                "Ergonomics": 119,
+                "InsuranceDisabled": true,
+                "LootExperience": 100,
+                "BaseMalfunctionChance": 0,
+                "RecoilForceBack": 140,
+                "RecoilForceUp": 214,
+                "Weight": 0.3,
+                "CameraSnap": 1.8,
+                "RepairCost": 400
+            },
+            "templateId": "675f3bba6f2be78e3570151e"
+        }
+    },
+    "602a9740da11d6478d5a06dc": {
+        "Legendary": {
+            "tpl": "675f3bbab3cda0db09a8b975",
+            "rarity": "Legendary",
+            "originalTpl": "602a9740da11d6478d5a06dc",
+            "name": "weapon_izhmash_pl15_9x19",
+            "parentId": "5447b5cf4bdc2d65278b4567",
+            "overrides": {
+                "BackgroundColor": "tracerRed",
+                "AllowMisfire": false,
+                "AllowJam": false,
+                "AllowOverheat": false,
+                "CanSellOnRagfair": false,
+                "CenterOfImpact": 0,
+                "IsUnbuyable": true,
+                "DurabilityBurnRatio": 1.95,
+                "Velocity": 9,
+                "PostRecoilHorizontalRangeHandRotation": {
+                    "x": -0.4,
+                    "y": 0.4,
+                    "z": 0
+                },
+                "PostRecoilVerticalRangeHandRotation": {
+                    "x": -0.2,
+                    "y": 0,
+                    "z": 0
+                },
+                "Ergonomics": 158,
+                "InsuranceDisabled": true,
+                "LootExperience": 450,
+                "BaseMalfunctionChance": 0,
+                "RecoilForceBack": 47,
+                "RecoilForceUp": 58,
+                "Weight": 0,
+                "CameraSnap": 0.6,
+                "RepairCost": 1600
+            },
+            "templateId": "675f3bbaf708b1d0b32dcab7"
+        },
+        "Epic": {
+            "tpl": "675f3bbae85cdd22dae5f554",
+            "rarity": "Epic",
+            "originalTpl": "602a9740da11d6478d5a06dc",
+            "name": "weapon_izhmash_pl15_9x19",
+            "parentId": "5447b5cf4bdc2d65278b4567",
+            "overrides": {
+                "BackgroundColor": "tracerYellow",
+                "AllowMisfire": false,
+                "AllowJam": false,
+                "AllowOverheat": false,
+                "CanSellOnRagfair": false,
+                "CenterOfImpact": 0,
+                "IsUnbuyable": true,
+                "DurabilityBurnRatio": 1.73,
+                "Velocity": 7,
+                "PostRecoilHorizontalRangeHandRotation": {
+                    "x": -1,
+                    "y": 1,
+                    "z": 0
+                },
+                "PostRecoilVerticalRangeHandRotation": {
+                    "x": -0.5,
+                    "y": 0,
+                    "z": 0
+                },
+                "Ergonomics": 140,
+                "InsuranceDisabled": true,
+                "LootExperience": 200,
+                "BaseMalfunctionChance": 0,
+                "RecoilForceBack": 118,
+                "RecoilForceUp": 145,
+                "Weight": 0.1,
+                "CameraSnap": 1.7,
+                "RepairCost": 1200
+            },
+            "templateId": "675f3bbacc7c17ff8c92c445"
+        },
+        "Rare": {
+            "tpl": "675f3bba1389686cef36d88e",
+            "rarity": "Rare",
+            "originalTpl": "602a9740da11d6478d5a06dc",
+            "name": "weapon_izhmash_pl15_9x19",
+            "parentId": "5447b5cf4bdc2d65278b4567",
+            "overrides": {
+                "BackgroundColor": "tracerGreen",
+                "AllowMisfire": false,
+                "AllowJam": false,
+                "AllowOverheat": false,
+                "CanSellOnRagfair": false,
+                "CenterOfImpact": 0,
+                "IsUnbuyable": true,
+                "DurabilityBurnRatio": 1.44,
+                "Velocity": 4,
+                "PostRecoilHorizontalRangeHandRotation": {
+                    "x": -1.4,
+                    "y": 1.4,
+                    "z": 0
+                },
+                "PostRecoilVerticalRangeHandRotation": {
+                    "x": -0.7,
+                    "y": 0,
+                    "z": 0
+                },
+                "Ergonomics": 116,
+                "InsuranceDisabled": true,
+                "LootExperience": 100,
+                "BaseMalfunctionChance": 0,
+                "RecoilForceBack": 165,
+                "RecoilForceUp": 202,
+                "Weight": 0.2,
+                "CameraSnap": 2.8,
+                "RepairCost": 400
+            },
+            "templateId": "675f3bba178c2d92f2961bf0"
         }
     },
     "5f36a0e5fbf956000b716b65": {
         "Legendary": {
-            "tpl": "675e63731043dcaa722537b3",
+            "tpl": "675f3bbade95b7977e080967",
             "rarity": "Legendary",
             "originalTpl": "5f36a0e5fbf956000b716b65",
             "name": "weapon_colt_m45a1_1143x23",
@@ -5147,7 +5501,7 @@
                 "CenterOfImpact": 0,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.95,
-                "Velocity": 0,
+                "Velocity": 9,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.4,
                     "y": 0.4,
@@ -5168,10 +5522,10 @@
                 "CameraSnap": 0.6,
                 "RepairCost": 1600
             },
-            "templateId": "675e637319a4a4a4b607b6ec"
+            "templateId": "675f3bba5689d86faea2ae38"
         },
         "Epic": {
-            "tpl": "675e637354392887ca477186",
+            "tpl": "675f3bba3185446698b1d68f",
             "rarity": "Epic",
             "originalTpl": "5f36a0e5fbf956000b716b65",
             "name": "weapon_colt_m45a1_1143x23",
@@ -5185,7 +5539,7 @@
                 "CenterOfImpact": 0,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.73,
-                "Velocity": 0,
+                "Velocity": 7,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -1,
                     "y": 1,
@@ -5206,10 +5560,10 @@
                 "CameraSnap": 1.8,
                 "RepairCost": 1200
             },
-            "templateId": "675e6373eec9295a82f08b6a"
+            "templateId": "675f3bbad31ca55dd42e398a"
         },
         "Rare": {
-            "tpl": "675e6373df48eeb3782910d3",
+            "tpl": "675f3bba0a66364467ee8a11",
             "rarity": "Rare",
             "originalTpl": "5f36a0e5fbf956000b716b65",
             "name": "weapon_colt_m45a1_1143x23",
@@ -5223,7 +5577,7 @@
                 "CenterOfImpact": 0,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.44,
-                "Velocity": 0,
+                "Velocity": 4,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -1.4,
                     "y": 1.4,
@@ -5244,12 +5598,12 @@
                 "CameraSnap": 3,
                 "RepairCost": 400
             },
-            "templateId": "675e6373c43a0d3ed5066447"
+            "templateId": "675f3bbaf8438cae69f715bd"
         }
     },
     "5cadc190ae921500103bb3b6": {
         "Legendary": {
-            "tpl": "675e6373d7ba21dbd9e36f4a",
+            "tpl": "675f3bba337ea320eba48685",
             "rarity": "Legendary",
             "originalTpl": "5cadc190ae921500103bb3b6",
             "name": "weapon_beretta_m9a3_9x19",
@@ -5263,7 +5617,7 @@
                 "CenterOfImpact": 0,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.95,
-                "Velocity": 0,
+                "Velocity": 9,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.4,
                     "y": 0.4,
@@ -5284,10 +5638,10 @@
                 "CameraSnap": 0.5,
                 "RepairCost": 1600
             },
-            "templateId": "675e6373185079c81801bc83"
+            "templateId": "675f3bba5dcc2fb5f75d7f64"
         },
         "Epic": {
-            "tpl": "675e637309bee3e2f8da85c8",
+            "tpl": "675f3bba10a91cce6c16b5b1",
             "rarity": "Epic",
             "originalTpl": "5cadc190ae921500103bb3b6",
             "name": "weapon_beretta_m9a3_9x19",
@@ -5301,7 +5655,7 @@
                 "CenterOfImpact": 0,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.73,
-                "Velocity": 0,
+                "Velocity": 7,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -1,
                     "y": 1,
@@ -5322,10 +5676,10 @@
                 "CameraSnap": 1.5,
                 "RepairCost": 1200
             },
-            "templateId": "675e6373bed59bbbc0a9e3cd"
+            "templateId": "675f3bba1797c6131eccdb4e"
         },
         "Rare": {
-            "tpl": "675e6373f01febbd3accbd9c",
+            "tpl": "675f3bba1e1a23662f67c1ed",
             "rarity": "Rare",
             "originalTpl": "5cadc190ae921500103bb3b6",
             "name": "weapon_beretta_m9a3_9x19",
@@ -5339,7 +5693,7 @@
                 "CenterOfImpact": 0,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.44,
-                "Velocity": 0,
+                "Velocity": 4,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -1.4,
                     "y": 1.4,
@@ -5360,12 +5714,12 @@
                 "CameraSnap": 2.5,
                 "RepairCost": 400
             },
-            "templateId": "675e6373f68547f052f46d59"
+            "templateId": "675f3bbaefe6daf5fa75c193"
         }
     },
     "669fa3f88abd2662d80eee77": {
         "Legendary": {
-            "tpl": "675e6373a4e5798fe101a6f1",
+            "tpl": "675f3bba08f08a447b231b7f",
             "rarity": "Legendary",
             "originalTpl": "669fa3f88abd2662d80eee77",
             "name": "weapon_magnum_research_desert_eagle_l5_127x33",
@@ -5379,7 +5733,7 @@
                 "CenterOfImpact": 0,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.95,
-                "Velocity": 0,
+                "Velocity": 9,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.4,
                     "y": 0.4,
@@ -5400,10 +5754,10 @@
                 "CameraSnap": 0.1,
                 "RepairCost": 1600
             },
-            "templateId": "675e6373be5548e94225cef9"
+            "templateId": "675f3bbaaadc53a829860fe5"
         },
         "Epic": {
-            "tpl": "675e63730efdff3f500a1fab",
+            "tpl": "675f3bba23c53dc00bb45475",
             "rarity": "Epic",
             "originalTpl": "669fa3f88abd2662d80eee77",
             "name": "weapon_magnum_research_desert_eagle_l5_127x33",
@@ -5417,7 +5771,7 @@
                 "CenterOfImpact": 0,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.73,
-                "Velocity": 0,
+                "Velocity": 7,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -1,
                     "y": 1,
@@ -5438,10 +5792,10 @@
                 "CameraSnap": 0.3,
                 "RepairCost": 1200
             },
-            "templateId": "675e6373997fcc6a002fe36c"
+            "templateId": "675f3bba6e4828b1233b21e7"
         },
         "Rare": {
-            "tpl": "675e63730d9fd79a0a632022",
+            "tpl": "675f3bba2815c932e92f36af",
             "rarity": "Rare",
             "originalTpl": "669fa3f88abd2662d80eee77",
             "name": "weapon_magnum_research_desert_eagle_l5_127x33",
@@ -5455,7 +5809,7 @@
                 "CenterOfImpact": 0,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.44,
-                "Velocity": 0,
+                "Velocity": 4,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -1.4,
                     "y": 1.4,
@@ -5476,12 +5830,12 @@
                 "CameraSnap": 0.5,
                 "RepairCost": 400
             },
-            "templateId": "675e6373a7eff3c2fb676bfc"
+            "templateId": "675f3bba631b2d18ef613aad"
         }
     },
     "576a581d2459771e7b1bc4f1": {
         "Legendary": {
-            "tpl": "675e6373a8fb2cc24ba7bd73",
+            "tpl": "675f3bbaf5ef15571016a485",
             "rarity": "Legendary",
             "originalTpl": "576a581d2459771e7b1bc4f1",
             "name": "weapon_izhmeh_mp443_9x19",
@@ -5495,7 +5849,7 @@
                 "CenterOfImpact": 0.07,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.95,
-                "Velocity": -15.66,
+                "Velocity": 9,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -0.4,
                     "y": 0.4,
@@ -5516,10 +5870,10 @@
                 "CameraSnap": 0.5,
                 "RepairCost": 1600
             },
-            "templateId": "675e637373e20e22eadf8da6"
+            "templateId": "675f3bba05dad5db93688672"
         },
         "Epic": {
-            "tpl": "675e6373dd77d4d5e264f5d2",
+            "tpl": "675f3bbaf9e50643e6c78b9c",
             "rarity": "Epic",
             "originalTpl": "576a581d2459771e7b1bc4f1",
             "name": "weapon_izhmeh_mp443_9x19",
@@ -5533,7 +5887,7 @@
                 "CenterOfImpact": 0.18,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.73,
-                "Velocity": -12.18,
+                "Velocity": 7,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -1,
                     "y": 1,
@@ -5554,10 +5908,10 @@
                 "CameraSnap": 1.5,
                 "RepairCost": 1200
             },
-            "templateId": "675e63733c39502f5bb0a8d0"
+            "templateId": "675f3bba1afcf83abb4d2214"
         },
         "Rare": {
-            "tpl": "675e63733e7c63f471b7d013",
+            "tpl": "675f3bbadc816dd57a416968",
             "rarity": "Rare",
             "originalTpl": "576a581d2459771e7b1bc4f1",
             "name": "weapon_izhmeh_mp443_9x19",
@@ -5571,7 +5925,7 @@
                 "CenterOfImpact": 0.24,
                 "IsUnbuyable": true,
                 "DurabilityBurnRatio": 1.44,
-                "Velocity": -6.96,
+                "Velocity": 4,
                 "PostRecoilHorizontalRangeHandRotation": {
                     "x": -1.4,
                     "y": 1.4,
@@ -5592,7 +5946,123 @@
                 "CameraSnap": 2.5,
                 "RepairCost": 400
             },
-            "templateId": "675e63732d0bbcb4247d6357"
+            "templateId": "675f3bba1072d3347a56be6b"
+        }
+    },
+    "56d59856d2720bd8418b456a": {
+        "Legendary": {
+            "tpl": "675f3bbaebcfd123230748ca",
+            "rarity": "Legendary",
+            "originalTpl": "56d59856d2720bd8418b456a",
+            "name": "weapon_sig_p226r_9x19",
+            "parentId": "5447b5cf4bdc2d65278b4567",
+            "overrides": {
+                "BackgroundColor": "tracerRed",
+                "AllowMisfire": false,
+                "AllowJam": false,
+                "AllowOverheat": false,
+                "CanSellOnRagfair": false,
+                "CenterOfImpact": 0,
+                "IsUnbuyable": true,
+                "DurabilityBurnRatio": 1.95,
+                "Velocity": 9,
+                "PostRecoilHorizontalRangeHandRotation": {
+                    "x": -0.4,
+                    "y": 0.4,
+                    "z": 0
+                },
+                "PostRecoilVerticalRangeHandRotation": {
+                    "x": -0.2,
+                    "y": 0,
+                    "z": 0
+                },
+                "Ergonomics": 136,
+                "InsuranceDisabled": true,
+                "LootExperience": 450,
+                "BaseMalfunctionChance": 0,
+                "RecoilForceBack": 55,
+                "RecoilForceUp": 77,
+                "Weight": 0,
+                "CameraSnap": 0.5,
+                "RepairCost": 1600
+            },
+            "templateId": "675f3bbaca860c6b154ba5fe"
+        },
+        "Epic": {
+            "tpl": "675f3bba1fb7a25721074d40",
+            "rarity": "Epic",
+            "originalTpl": "56d59856d2720bd8418b456a",
+            "name": "weapon_sig_p226r_9x19",
+            "parentId": "5447b5cf4bdc2d65278b4567",
+            "overrides": {
+                "BackgroundColor": "tracerYellow",
+                "AllowMisfire": false,
+                "AllowJam": false,
+                "AllowOverheat": false,
+                "CanSellOnRagfair": false,
+                "CenterOfImpact": 0,
+                "IsUnbuyable": true,
+                "DurabilityBurnRatio": 1.73,
+                "Velocity": 7,
+                "PostRecoilHorizontalRangeHandRotation": {
+                    "x": -1,
+                    "y": 1,
+                    "z": 0
+                },
+                "PostRecoilVerticalRangeHandRotation": {
+                    "x": -0.5,
+                    "y": 0,
+                    "z": 0
+                },
+                "Ergonomics": 120,
+                "InsuranceDisabled": true,
+                "LootExperience": 200,
+                "BaseMalfunctionChance": 0,
+                "RecoilForceBack": 138,
+                "RecoilForceUp": 192,
+                "Weight": 0.1,
+                "CameraSnap": 1.5,
+                "RepairCost": 1200
+            },
+            "templateId": "675f3bba857b8283dc0aefda"
+        },
+        "Rare": {
+            "tpl": "675f3bbaafe67344d56e727c",
+            "rarity": "Rare",
+            "originalTpl": "56d59856d2720bd8418b456a",
+            "name": "weapon_sig_p226r_9x19",
+            "parentId": "5447b5cf4bdc2d65278b4567",
+            "overrides": {
+                "BackgroundColor": "tracerGreen",
+                "AllowMisfire": false,
+                "AllowJam": false,
+                "AllowOverheat": false,
+                "CanSellOnRagfair": false,
+                "CenterOfImpact": 0,
+                "IsUnbuyable": true,
+                "DurabilityBurnRatio": 1.44,
+                "Velocity": 4,
+                "PostRecoilHorizontalRangeHandRotation": {
+                    "x": -1.4,
+                    "y": 1.4,
+                    "z": 0
+                },
+                "PostRecoilVerticalRangeHandRotation": {
+                    "x": -0.7,
+                    "y": 0,
+                    "z": 0
+                },
+                "Ergonomics": 100,
+                "InsuranceDisabled": true,
+                "LootExperience": 100,
+                "BaseMalfunctionChance": 0,
+                "RecoilForceBack": 193,
+                "RecoilForceUp": 268,
+                "Weight": 0.1,
+                "CameraSnap": 2.5,
+                "RepairCost": 400
+            },
+            "templateId": "675f3bba5ac93b1c83328053"
         }
     }
 }

@@ -1,12 +1,10 @@
 import { DependencyContainer } from "tsyringe";
 
 import { DatabaseServer } from "@spt/servers/DatabaseServer";
-import { ConfigServer } from "@spt/servers/ConfigServer";
-import { ConfigTypes } from "@spt/models/enums/ConfigTypes";
 import { buildNewWeapon, saveToFile } from "./utils";
-import { IBotConfig } from "../../types/models/spt/config/IBotConfig.d";
 import { EpicWeaponData, Rarity } from "./types";
 import _weaponMap from "../Constants/weapons.json";
+import { EffectedBosses } from "./constants";
 
 export default function buildWeaponsJson(
   container: DependencyContainer
@@ -17,21 +15,12 @@ export default function buildWeaponsJson(
 
   const items = tables.templates.items;
   const botTypes = tables.bots.types;
-  const configServer = container.resolve<ConfigServer>("ConfigServer");
-  const botConfig = configServer.getConfig<IBotConfig>(ConfigTypes.BOT);
-
-  const bossNames = botConfig.bosses.map((name) => name.toLowerCase());
-  const followers = Object.keys(botTypes).filter((name) =>
-    name.includes("follower")
-  );
 
   const FirstPrimaryWeapon = new Set<string>([]);
 
   const Holster = new Set<string>([]);
 
-  const combinedbossFollowers = [...bossNames, ...followers, "marksman"];
-
-  combinedbossFollowers.forEach((name) => {
+  EffectedBosses.forEach((name) => {
     if (botTypes?.[name]?.inventory?.equipment?.FirstPrimaryWeapon) {
       const weaponList = botTypes[name].inventory.equipment.FirstPrimaryWeapon;
       let highestId = "";

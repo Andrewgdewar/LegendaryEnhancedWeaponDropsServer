@@ -1,12 +1,12 @@
 import { DependencyContainer } from "tsyringe";
 
 import { DatabaseServer } from "@spt/servers/DatabaseServer";
-import config from "../../config/config.json";
 import { cloneDeep } from "./utils";
 import { ITemplateItem } from "@spt/models/eft/common/tables/ITemplateItem";
 import { EpicWeaponData, Rarity } from "./types";
 import _weaponMap from "../Constants/weapons.json";
-import { Languages, RarityPrice } from "./constants";
+import { Languages, Rarities, RarityPrice } from "./constants";
+import { debug } from "../../config/config.json";
 
 const weaponMap = _weaponMap as Record<string, Record<Rarity, EpicWeaponData>>;
 
@@ -124,5 +124,80 @@ export default function SetupEquipment(
     }
   }
 
-  config.debug && console.log("EWP: equipment stored!");
+  // adjust quests
+  for (const questId in tables.templates.quests) {
+    const quest = tables.templates.quests[questId];
+    // templates > quests > each > conditions >
+    // available for finish> each> counter > conditions >
+    // each > weapon | target (if target is array) >includes >add all 3
+    quest?.conditions?.AvailableForFinish?.forEach((cond, index) => {
+      cond?.counter?.conditions?.forEach((item, inIndex) => {
+        if (item?.weapon?.length) {
+          item.weapon.forEach((id) => {
+            if (weaponMap[id]) {
+              tables.templates.quests[questId].conditions?.AvailableForFinish[
+                index
+              ].counter.conditions[inIndex].weapon.push(
+                ...Object.keys(weaponMap[id]).map(
+                  (rarity: Rarity) => weaponMap[id][rarity].tpl
+                )
+              );
+              debug &&
+                console.log(
+                  "Updated killquests for",
+                  quest.QuestName,
+                  weaponMap[id]?.Rare?.name,
+                  " added 3 rarities."
+                );
+            }
+          });
+        } else if (item.target && typeof item.target !== "string") {
+          item.target.forEach((id) => {
+            if (weaponMap[id]) {
+              (
+                tables.templates.quests[questId].conditions?.AvailableForFinish[
+                  index
+                ].counter.conditions[inIndex].target as string[]
+              ).push(
+                ...Object.keys(weaponMap[id]).map(
+                  (rarity: Rarity) => weaponMap[id][rarity].tpl
+                )
+              );
+              debug &&
+                console.log(
+                  "Updated weapons to fine for",
+                  quest.QuestName,
+                  weaponMap[id]?.Rare?.name,
+                  " added 3 rarities."
+                );
+            }
+          });
+        }
+      });
+    });
+
+    // rewards > success > each > items? each > _tpl > replace with rare
+    quest?.rewards?.Success?.forEach((reward, index) => {
+      if (reward?.items && typeof reward?.items !== "string") {
+        reward?.items?.forEach((item, inIndex) => {
+          if (!!weaponMap?.[item._tpl]) {
+            debug &&
+              console.log(
+                "Updated reward for ",
+                quest.QuestName,
+                item._tpl,
+                weaponMap[item._tpl]?.Rare?.name,
+                " now rare."
+              );
+
+            tables.templates.quests[questId].rewards.Success[index].items[
+              inIndex
+            ]._tpl = weaponMap[item._tpl]?.Rare?.tpl;
+          }
+        });
+      }
+    });
+  }
+
+  console.log("LEWD: Legendary Enhanced Weapon Drops successfully integrated!");
 }

@@ -1,3 +1,38 @@
+export const EffectedBosses = [
+  "bossbully",
+  "bossgluhar",
+  "bosskilla",
+  "bosskojaniy",
+  "bosssanitar",
+  "bosstagilla",
+  "bossknight",
+  "bosszryachiy",
+  "bossboar",
+  "bossboarsniper",
+  "bosskolontay",
+  "bosspartisan",
+  "followerbigpipe",
+  "followerbirdeye",
+  "followerbully",
+  "followerboarclose1",
+  "followerboar",
+  "followergluharassault",
+  "followerboarclose2",
+  "followerkojaniy",
+  "followergluharscout",
+  "followergluharsecurity",
+  "followerkolontayassault",
+  "followersanitar",
+  "followertagilla",
+  "followergluharsnipe",
+  "followerkolontaysecurity",
+  "followertest",
+  "followerzryachiy",
+  "marksman",
+  "pmcbot",
+  "exusec",
+];
+
 export const Languages = [
   "ch",
   "en",
@@ -76,4 +111,22 @@ export enum RarityRepairCost {
   Rare = 400,
   Epic = 1200,
   Legendary = 1600,
+}
+
+export enum RarityChanceHigh {
+  Rare = 1.5,
+  Epic = 1,
+  Legendary = 0.5,
+}
+
+export enum RarityChanceMedium {
+  Rare = 0.8,
+  Epic = 0.2,
+  Legendary = 0.05,
+}
+
+export enum RarityChanceLow {
+  Rare = 0.6,
+  Epic = 0.1,
+  Legendary = 0.05,
 }

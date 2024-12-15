@@ -1,4 +1,5 @@
 {
   "enabled": true,
+  "rarityMultiplier": 1,
   "debug": false
 }

@@ -104,7 +104,7 @@ export const buildOverrides = (
   rarity: Rarity,
   props: IProps
 ): Partial<IProps> => {
-  const {
+  let {
     PostRecoilHorizontalRangeHandRotation,
     PostRecoilVerticalRangeHandRotation,
     Ergonomics,
@@ -120,6 +120,7 @@ export const buildOverrides = (
     DurabilityBurnRatio,
   } = props;
   const isAuto = weapFireType.includes("fullauto");
+  if (Velocity < 1) Velocity = 1;
   return {
     BackgroundColor: RarityColor[rarity],
     AllowMisfire: false,
