@@ -199,5 +199,7 @@ export default function SetupEquipment(
     });
   }
 
-  console.log("LEWD: Legendary Enhanced Weapon Drops successfully integrated!");
+  console.log(
+    "[LEWD]: Legendary Enhanced Weapon Drops successfully integrated!"
+  );
 }
